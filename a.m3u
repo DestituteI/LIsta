@@ -1,9 +1,35 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
+https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="Int. Europa" tvg-name="TV3CAT",TV3CAT GEO
+https://directes-tv-es.ccma.cat/live-origin/tvi-hls/master.m3u8
+
+#EXTINF:0,BBC One HD (540p)
+#EXTVLCOPT:network-caching=1000
+http://w4.12all.tv:4000/play/bbc1/index.m3u8
+
+
+#EXTINF:0,BBC Two HD (720p)
+#EXTVLCOPT:network-caching=1000
+http://w4.12all.tv:4000/play/bbc2/index.m3u8
+
+#EXTINF:0,BBC Three HD (720p)
+#EXTVLCOPT:network-caching=1000
+http://w4.12all.tv:4000/play/bbc3/index.m3u8
+
 #EXTINF:0,RTP Internacional (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTVLCOPT:network-caching=1000
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+#EXTINF:0,Barça TV (576p)
+#EXTVLCOPT:network-caching=1000
+http://93.152.174.144:4000/play/barcatv/index.m3u8
 
 #EXTINF:0,M6 (1080p)
 #EXTVLCOPT:network-caching=1000
@@ -57,6 +83,9 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 #EXTINF:0,À Punt (720p)
 #EXTVLCOPT:network-caching=1000
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+
+
+
 
 
 
