@@ -9,6 +9,10 @@ https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="Int. Europa" tvg-name="TV3CAT",TV3CAT GEO
 https://directes-tv-es.ccma.cat/live-origin/tvi-hls/master.m3u8
 
+#EXTINF:0,Canal Sur tvg-logo="https://es.wikipedia.org/wiki/Canal_Sur_Andalucía#/media/Archivo:CanalSur_Andalucía.png"
+#EXTVLCOPT:network-caching=1000
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqwjtgaJflHga2aPWphG5PQ/live
+
 #EXTINF:0,BBC One HD (540p)
 #EXTVLCOPT:network-caching=1000
 http://w4.12all.tv:4000/play/bbc1/index.m3u8
@@ -83,6 +87,11 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 #EXTINF:0,À Punt (720p)
 #EXTVLCOPT:network-caching=1000
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+
+
+
+
+
 
 
 
