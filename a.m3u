@@ -1,0 +1,63 @@
+#EXTM3U
+
+#EXTINF:0,RTP Internacional (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+#EXTINF:0,M6 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+
+#EXTINF:0,TF1 Séries Films (360p)
+#EXTVLCOPT:network-caching=1000
+http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
+
+#EXTINF:36,TBS (540p) [Not 24/7]
+https://tbs2.mov3.co/hls/tbs.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0,Rai 3 (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
+
+#EXTINF:0,ITV 1 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://w4.12all.tv:4000/play/itv1/index.m3u8
+
+#EXTINF:0,NHK G (JOAK-DTV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.us195.jpnettv.live/jptv/kanto_nhk_g_720/playlist.m3u8
+
+#EXTINF:0,NHK E (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
+
+#EXTINF:0,ETB 1 (720p)
+#EXTVLCOPT:network-caching=1000
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:0,ETB 2 (720p)
+#EXTVLCOPT:network-caching=1000
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:0,ETB Basque (480p)
+#EXTVLCOPT:network-caching=1000
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+
+#EXTINF:0,Canal Sur Andalucía (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqwjtgaJflHga2aPWphG5PQ/live
+
+#EXTINF:0,LaOtra (720p)
+#EXTVLCOPT:network-caching=1000
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
+
+#EXTINF:0,Telemadrid (720p)
+#EXTVLCOPT:network-caching=1000
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+
+#EXTINF:0,À Punt (720p)
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+
+
+
+
