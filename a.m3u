@@ -9,11 +9,11 @@ https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="Int. Europa" tvg-name="TV3CAT",TV3CAT GEO
 https://directes-tv-es.ccma.cat/live-origin/tvi-hls/master.m3u8
 
-#EXTINF:0, tvg-logo="https://es.wikipedia.org/wiki/Canal_Sur_Andalucía#/media/Archivo:CanalSur_Andalucía.png",Canal Sur
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Canal_Sur_Andalucía#/media/Archivo:CanalSur_Andalucía.png",Canal Sur
 #EXTVLCOPT:network-caching=1000
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqwjtgaJflHga2aPWphG5PQ/live
 
-#EXTINF:0,BBC One HD (540p)
+#EXTINF:-1, tvg-logo="https://es.wikipedia.org/wiki/BBC_One#/media/Archivo:BBC_One_logo_2021.svg", BBC One
 #EXTVLCOPT:network-caching=1000
 http://w4.12all.tv:4000/play/bbc1/index.m3u8
 
@@ -21,10 +21,6 @@ http://w4.12all.tv:4000/play/bbc1/index.m3u8
 #EXTINF:0,BBC Two HD (720p)
 #EXTVLCOPT:network-caching=1000
 http://w4.12all.tv:4000/play/bbc2/index.m3u8
-
-#EXTINF:0,BBC Three HD (720p)
-#EXTVLCOPT:network-caching=1000
-http://w4.12all.tv:4000/play/bbc3/index.m3u8
 
 #EXTINF:0,RTP Internacional (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
@@ -87,6 +83,10 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 #EXTINF:0,À Punt (720p)
 #EXTVLCOPT:network-caching=1000
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+
+
+
+
 
 
 
