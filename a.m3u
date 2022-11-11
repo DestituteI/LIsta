@@ -6,13 +6,13 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1 tvg.id="TV3.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/1280px-TV3CAT.svg.png",TV3
+#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/1280px-TV3CAT.svg.png",TV3
 https://directes-tv-es.ccma.cat/live-origin/tvi-hls/master.m3u8
 
-#EXTINF:0 tvg.id="C33.TV" tvg-logo="https://pbs.twimg.com/profile_images/1491335339805491200/ZRaXO4tN_400x400.png",Super 3/El 33
+#EXTINF:0 tvg-id="C33.TV" tvg-logo="https://pbs.twimg.com/profile_images/1491335339805491200/ZRaXO4tN_400x400.png",Super 3/El 33
 https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
 
-#EXTINF:-1 tvg.id="CanalSurA.TV" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg",Canal Sur
+#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg",Canal Sur Andalucía
 #EXTVLCOPT:network-caching=1000
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
@@ -28,13 +28,13 @@ http://w4.12all.tv:4000/play/bbc2/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://w4.12all.tv:4000/play/itv1/index.m3u8
 
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png",TDP
+#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png",TDP
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 
 #EXTINF:0 tvg-logo="https://img.ccma.cat/multimedia/png/9/9/1619526053499.png",Esport 3
 https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1583028176413986816/Rwm5YcZA_400x400.jpg",Barça TV
+#EXTINF:0 tvg-id="BarcaTV.TV" tvg-logo="https://pbs.twimg.com/profile_images/1583028176413986816/Rwm5YcZA_400x400.jpg",Barça TV
 #EXTVLCOPT:network-caching=1000
 http://93.152.174.144:4000/play/barcatv/index.m3u8
 
@@ -100,11 +100,6 @@ https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/60
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",Canal 24 horas
 #EXTVLCOPT:network-caching=1000
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-
-
-
-
 
 
 
