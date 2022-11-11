@@ -72,11 +72,11 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
 #EXTINF:36,TBS
 https://tbs2.mov3.co/hls/tbs.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0,ETB 1 (720p)
+#EXTINF:0 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/01/etb1.png" tvg-id="ETB1.TV",ETB 1
 #EXTVLCOPT:network-caching=1000
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 
-#EXTINF:0,ETB 2 (720p) tvg-name="ETB2.TV"
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png" tvg-id="ETB2.TV",ETB 2
 #EXTVLCOPT:network-caching=1000
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
@@ -97,7 +97,7 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 #EXTVLCOPT:network-caching=1000
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",Canal 24 horas
+#EXTINF:0 tvg-id="24Horas.Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",Canal 24 horas
 #EXTVLCOPT:network-caching=1000
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
