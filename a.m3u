@@ -38,7 +38,7 @@ https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 #EXTVLCOPT:network-caching=1000
 http://93.152.174.144:4000/play/barcatv/index.m3u8
 
-#EXTINF:0 tvg-id="Clan.TV" tvg-logo:"https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",Clan
+#EXTINF:0 tvg-id="Clan.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",Clan
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/SX3_positiu.png",SX3 24H
@@ -100,8 +100,6 @@ https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/60
 #EXTINF:0 tvg-id="24Horas.Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",Canal 24 horas
 #EXTVLCOPT:network-caching=1000
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-
 
 
 
