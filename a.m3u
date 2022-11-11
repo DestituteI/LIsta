@@ -24,7 +24,7 @@ http://w4.12all.tv:4000/play/bbc1/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://w4.12all.tv:4000/play/bbc2/index.m3u8
 
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1347232867563266063/W5l_gNL3_400x400.jpg",ITV 1
+#EXTINF:0 tvg-id="ITV.uk" tvg-logo="https://pbs.twimg.com/profile_images/1347232867563266063/W5l_gNL3_400x400.jpg",ITV 1
 #EXTVLCOPT:network-caching=1000
 http://w4.12all.tv:4000/play/itv1/index.m3u8
 
