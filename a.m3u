@@ -28,6 +28,9 @@ http://w4.12all.tv:4000/play/bbc2/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://w4.12all.tv:4000/play/itv1/index.m3u8
 
+#EXTINF:0 tvg-id="8tv.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/8tv_logo_2021.svg/1200px-8tv_logo_2021.svg.png",8TV
+https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/manifest.m3u8
+
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png",TDP
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 
@@ -100,6 +103,7 @@ https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/60
 #EXTINF:0 tvg-id="24Horas.Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",Canal 24 horas
 #EXTVLCOPT:network-caching=1000
 https://ztnr.rtve.es/ztnr/1694255.m3u8
+
 
 
 
