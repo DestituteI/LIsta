@@ -28,8 +28,11 @@ http://w4.12all.tv:4000/play/bbc2/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://w4.12all.tv:4000/play/itv1/index.m3u8
 
-#EXTINF:0 tvg-id="8TVCadiz.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/8tv_logo_2021.svg/1200px-8tv_logo_2021.svg.png",8TV
+#EXTINF:0 tvg-id="8tvCadiz.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/8tv_logo_2021.svg/1200px-8tv_logo_2021.svg.png",8TV
 https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/manifest.m3u8
+
+#EXTINF:-1 tvg-id="VOTV.TV"tvg-logo="https://graph.facebook.com/votv.cat/picture?width=200&height=200",VOTV
+https://liveingesta118.cdnmedia.tv/votvlive/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png",TDP
 https://ztnr.rtve.es/ztnr/1712295.m3u8
