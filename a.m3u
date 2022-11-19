@@ -51,6 +51,7 @@ https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:0 tvg-id="C33.TV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/SX3_positiu.png",SX3 24H
 https://directes-tv-cat.ccma.cat/live-origin/super3-hls/master.m3u8
 
+
 #EXTINF:0 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Internacional-em-direto-Online.png",RTP Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTVLCOPT:network-caching=1000
@@ -119,6 +120,7 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 #EXTVLCOPT:network-caching=1000
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 
+
 #EXTINF:0 tvg-id="24Horas.Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",Canal 24 horas
 #EXTVLCOPT:network-caching=1000
 https://ztnr.rtve.es/ztnr/1694255.m3u8
@@ -133,12 +135,5 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#ENTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/900px-CNN_International_logo.svg.png",Euronews
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #ENTINF:-1 tvg-id="BBC World News Europe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/2560px-BBC_World_News_2022.svg.png",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
-
-#EXTINF:0 tvg-id="CNN.Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/900px-CNN_International_logo.svg.png",CNN
-#EXTVLCOPT:network-caching=1000
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
