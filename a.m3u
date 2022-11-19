@@ -6,7 +6,7 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/1280px-TV3CAT.svg.png",TV3
+#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png",TV3
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
 #EXTINF:0 tvg-id="Canal 33" tvg-logo="https://pbs.twimg.com/profile_images/1491335339805491200/ZRaXO4tN_400x400.png",SX3/El 33
@@ -89,7 +89,7 @@ https://tbs2.mov3.co/hls/tbs.m3u8?checkedby:iptvcat.com
 #EXTVLCOPT:network-caching=1000
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png" tvg-id="ETB2.TV",ETB 2
+#EXTINF:0 tvg-id="ETB2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png",ETB 2
 #EXTVLCOPT:network-caching=1000
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
@@ -103,7 +103,7 @@ https://europa-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:0 tvg-id="TVG 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/TvG2.jpg",TVG 2
 #EXTVLCOPT:network-caching=1000
-https://europa-crtvg.flumotion.com/playlist.m3u8
+https://events2-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:0 tvg-id="Telemadrid Int." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/1200px-TeleMadrid.svg.png",Telemadrid
 #EXTVLCOPT:network-caching=1000
