@@ -124,3 +124,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02
 
 #ENTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/900px-CNN_International_logo.svg.png",CNN International
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0 tvg-id="CNN.Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/900px-CNN_International_logo.svg.png",CNN
+#EXTVLCOPT:network-caching=1000
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
