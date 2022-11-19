@@ -68,6 +68,15 @@ http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",El Nueve Argentina
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png",El Trece Argentina
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisión_Pública_%282021%29.svg/1200px-TVP_-_Televisión_Pública_%282021%29.svg.png",TV Pública Argentina
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live
+
 #EXTINF:0,NHK G
 #EXTVLCOPT:network-caching=1000
 https://cdn.us195.jpnettv.live/jptv/kanto_nhk_g_720/playlist.m3u8
@@ -111,8 +120,5 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="324.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/1200px-324_%28CCMA%29_logo.svg.png",3/24
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
