@@ -97,7 +97,15 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 #EXTVLCOPT:network-caching=1000
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/1200px-TeleMadrid.svg.png",Telemadrid
+#EXTINF:0 tvg-id="TVGA Europa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Televisión_de_Galicia_Logo.svg",TV Galicia
+#EXTVLCOPT:network-caching=1000
+https://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 tvg-id="TVG 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/TvG2.jpg",TVG 2
+#EXTVLCOPT:network-caching=1000
+https://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 tvg-id="Telemadrid Int." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/1200px-TeleMadrid.svg.png",Telemadrid
 #EXTVLCOPT:network-caching=1000
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
