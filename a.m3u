@@ -64,7 +64,7 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 #EXTVLCOPT:network-caching=1000
 http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
 
-#EXTINF:0,Rai 3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1280px-Rai_3_-_Logo_2016.svg.png",Rai 3
 #EXTVLCOPT:network-caching=1000
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 
@@ -93,7 +93,7 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTVLCOPT:network-caching=1000
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
-#EXTINF:0 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:ETB_Basque_2022_logo.svg",ETB Basque
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/1280px-ETB_Basque_2022_logo.svg.png",ETB Basque
 #EXTVLCOPT:network-caching=1000
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 
@@ -105,7 +105,7 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 #EXTVLCOPT:network-caching=1000
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
 
-#EXTINF:0,À Punt (720p)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27À_Punt_%282017-%29.svg/1200px-Logotip_d%27À_Punt_%282017-%29.svg.png",À Punt (720p)
 #EXTVLCOPT:network-caching=1000
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 
