@@ -74,18 +74,15 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png",El Trece Argentina
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisión_Pública_%282021%29.svg/1200px-TVP_-_Televisión_Pública_%282021%29.svg.png",TV Pública Argentina
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live
-
-#EXTINF:0,NHK G
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/2560px-NHK_General_TV_logo.svg.png",NHK G
 #EXTVLCOPT:network-caching=1000
-https://cdn.us195.jpnettv.live/jptv/kanto_nhk_g_720/playlist.m3u8
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
 
-#EXTINF:0,NHK E
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1024px-NHK_Educational_TV_logo.svg.png",NHK E
 #EXTVLCOPT:network-caching=1000
 http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
 
-#EXTINF:36,TBS
+#EXTINF:36 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
 https://tbs2.mov3.co/hls/tbs.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/01/etb1.png" tvg-id="ETB1.TV",ETB 1
@@ -96,16 +93,15 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTVLCOPT:network-caching=1000
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
-
-#EXTINF:0,ETB Basque (480p)
+#EXTINF:0 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:ETB_Basque_2022_logo.svg",ETB Basque
 #EXTVLCOPT:network-caching=1000
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 
-#EXTINF:0,Telemadrid (720p)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/1200px-TeleMadrid.svg.png",Telemadrid (720p)
 #EXTVLCOPT:network-caching=1000
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
-#EXTINF:0,LaOtra (720p)
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsRjDgS5Tu7sA8hxIXuCI3OTXdv5Gm-R1Hlsafb8E_&s",LaOtra (720p)
 #EXTVLCOPT:network-caching=1000
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
 
@@ -122,3 +118,9 @@ https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#ENTINF:-0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/900px-CNN_International_logo.svg.png",Euronews
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8
+
+#ENTINF:-0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/900px-CNN_International_logo.svg.png",CNN International
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
