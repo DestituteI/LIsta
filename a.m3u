@@ -9,7 +9,7 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png",TV3
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
-#EXTINF:0 tvg-id="Canal 33" tvg-logo="https://pbs.twimg.com/profile_images/1491335339805491200/ZRaXO4tN_400x400.png",SX3/El 33
+#EXTINF:0 tvg-id="Canal 33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/150px-33_%28CCMA%29.svg.png",SX3/El 33
 https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg",Canal Sur Andalucía
@@ -26,7 +26,7 @@ http://w4.12all.tv:4000/play/bbc1/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://w4.12all.tv:4000/play/bbc2/index.m3u8
 
-#EXTINF:0 tvg-id="ITV.uk" tvg-logo="https://pbs.twimg.com/profile_images/1347232867563266063/W5l_gNL3_400x400.jpg",ITV 1
+#EXTINF:0 tvg-id="ITV.uk" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png",ITV 1
 #EXTVLCOPT:network-caching=1000
 http://w4.12all.tv:4000/play/itv1/index.m3u8
 
