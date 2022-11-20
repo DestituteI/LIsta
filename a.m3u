@@ -86,6 +86,12 @@ http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tgla7/picture?width=200&height=200",La7 Italia
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/la7fb/picture?width=200&height=200",La7d Italia
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",El Nueve Argentina
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
@@ -99,6 +105,9 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1024px-NHK_Educational_TV_logo.svg.png",NHK E
 #EXTVLCOPT:network-caching=1000
 http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
+
+#EXTINF:-1 tvg-id="NHK.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK World Japan EN
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #EXTINF:36 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
 https://tbs2.mov3.co/hls/tbs.m3u8?checkedby:iptvcat.com
@@ -165,3 +174,6 @@ http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="CNN International Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/900px-CNN_International_logo.svg.png",CNN
 #EXTVLCOPT:network-caching=1000
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RaiN.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/2560px-Rai_News_24_logo_%282022%29.svg.png",Rai News 24
+https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
