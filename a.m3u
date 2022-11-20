@@ -17,6 +17,7 @@ https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1450745843603083267/uSloYi8l_400x400.jpg",BBC One
 #EXTVLCOPT:network-caching=1000
 http://w4.12all.tv:4000/play/bbc1/index.m3u8
@@ -30,12 +31,17 @@ http://w4.12all.tv:4000/play/bbc2/index.m3u8
 http://w4.12all.tv:4000/play/itv1/index.m3u8
 
 
+
 #EXTINF:0 tvg-id="8 TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/8tv_logo_2021.svg/1200px-8tv_logo_2021.svg.png",8TV
 https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/manifest.m3u8
 
 #EXTINF:-1 tvg-id="VOTV" tvg-logo="https://seu-e.cat/logotips/9826145015.PNG",VOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta119.cdnmedia.tv/votvlive/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://img.beteve.cat/wp-content/uploads/2021/08/logo_beteve_2021.png",betevé
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+
 
 
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png",TDP
@@ -48,6 +54,7 @@ https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 #EXTVLCOPT:network-caching=1000
 http://93.152.174.144:4000/play/barcatv/index.m3u8
 
+
 #EXTINF:0 tvg-id="Clan.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",Clan
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 
@@ -55,12 +62,15 @@ https://ztnr.rtve.es/ztnr/5466990.m3u8
 https://directes-tv-cat.ccma.cat/live-origin/super3-hls/master.m3u8
 
 
-#EXTINF:0 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Internacional-em-direto-Online.png",RTP Internacional
+#EXTINF:-1 tvg-id="ATVHD.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisió.png",ATV Andorra
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+
+#EXTINF:0 tvg-id="RTP 1" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Internacional-em-direto-Online.png",RTP Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTVLCOPT:network-caching=1000
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id"" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/2/24/Logótipo_TVI.png",TVI
+#EXTINF:0 tvg-id="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logótipo_TVI.png",TVI
 #EXTVLCOPT:network-caching=1000
 https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 
@@ -130,6 +140,7 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 #EXTINF:0 tvg-id="À Punt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27À_Punt_%282017-%29.svg/1200px-Logotip_d%27À_Punt_%282017-%29.svg.png",À Punt
 #EXTVLCOPT:network-caching=1000
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+
 
 
 #EXTINF:0 tvg-id="24Horas.Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",Canal 24 horas
