@@ -1,24 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="la1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" tvg-name="La 1",La 1
+#EXTINF:-1 tvg-id="la1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
-#EXTINF:-1 tvg-id="la2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" tvg-name="La 2",La 2
+#EXTINF:-1 tvg-id="la2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:0 tvg=id="antena3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Antena_3.svg/200px-Antena_3.svg.png",Antena 3
+#EXTINF:0 tvg=id="antena3.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Antena_3.svg/200px-Antena_3.svg.png",Antena 3
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2599
 
-#EXTINF:0 tvg-id="cuatro.es" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/2560px-Logotipo_de_Cuatro.svg.png",Cuatro
+#EXTINF:0 tvg-id="cuatro.TV" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/2560px-Logotipo_de_Cuatro.svg.png",Cuatro
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2571
 
-#EXTINF:0 tvg-id="telecinco.es" tvg-logo"https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png",Telecinco
+#EXTINF:0 tvg-id="telecinco.TV" tvg-logo"https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png",Telecinco
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2536
 
-#EXTINF:0 tvg-id="lasexta.es" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1425px-La_Sexta_%28A3M%29.svg.png",La Sexta
+#EXTINF:0 tvg-id="lasexta.TV" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1425px-La_Sexta_%28A3M%29.svg.png",La Sexta
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2552
 
@@ -26,7 +26,7 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/2552
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2603
 
-#EXTINF tvg-id="M+ VAMOS HD" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png":0,Vamos
+#EXTINF:0 tvg-id="M+ VAMOS HD" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png":0,Vamos
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29313
 
