@@ -10,27 +10,27 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2599
 
-#EXTINF:0 tvg-id="cuatro.TV" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/2560px-Logotipo_de_Cuatro.svg.png",Cuatro
+#EXTINF:0 tvg-id="cuatro.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/2560px-Logotipo_de_Cuatro.svg.png",Cuatro
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2571
 
-#EXTINF:0 tvg-id="telecinco.TV" tvg-logo"https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png",Telecinco
+#EXTINF:0 tvg-id="telecinco.TV" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png",Telecinco
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2536
 
-#EXTINF:0 tvg-id="lasexta.TV" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1425px-La_Sexta_%28A3M%29.svg.png",La Sexta
+#EXTINF:0 tvg-id="lasexta.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1425px-La_Sexta_%28A3M%29.svg.png",La Sexta
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2552
 
-#EXTINF:0 tvg-id="M+ #0 HD" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/2560px-0_por_Movistar_Plus%2B_2022_logo.svg.png",#0 por Movistar+
+#EXTINF:0 tvg-id="M+ #0 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/2560px-0_por_Movistar_Plus%2B_2022_logo.svg.png",#0 por Movistar+
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2603
 
-#EXTINF:0 tvg-id="M+ VAMOS HD" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png":0,Vamos
+#EXTINF:0 tvg-id="M+ VAMOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png":0,#Vamos por Movistar+
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29313
 
 #EXTINF:-1 tvg-id="TV3 CAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png",TV3
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
-tvg-id="" tvg-logo""
+tvg-id="" tvg-logo=""
