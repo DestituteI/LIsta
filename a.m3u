@@ -1,179 +1,36 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" tvg-name="La 1",La 1
+#EXTINF:-1 tvg-id="la1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" tvg-name="La 2",La 2
+#EXTINF:-1 tvg-id="la2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png",TV3
+#EXTINF:0 tvg=id="antena3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Antena_3.svg/200px-Antena_3.svg.png",Antena 3
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2599
+
+#EXTINF:0 tvg-id="cuatro.es" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/2560px-Logotipo_de_Cuatro.svg.png",Cuatro
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2571
+
+#EXTINF:0 tvg-id="telecinco.es" tvg-logo"https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png",Telecinco
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2536
+
+#EXTINF:0 tvg-id="lasexta.es" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1425px-La_Sexta_%28A3M%29.svg.png",La Sexta
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2552
+
+#EXTINF:0 tvg-id="M+ #0 HD" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/2560px-0_por_Movistar_Plus%2B_2022_logo.svg.png",#0 por Movistar+
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2603
+
+#EXTINF tvg-id="M+ VAMOS HD" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png":0,Vamos
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/29313
+
+#EXTINF:-1 tvg-id="TV3 CAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png",TV3
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
-#EXTINF:0 tvg-id="Canal 33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/150px-33_%28CCMA%29.svg.png",SX3/El 33
-https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
-
-#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg",Canal Sur Andalucía
-#EXTVLCOPT:network-caching=1000
-https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1450745843603083267/uSloYi8l_400x400.jpg",BBC One
-#EXTVLCOPT:network-caching=1000
-http://w4.12all.tv:4000/play/bbc1/index.m3u8
-
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1450745686572650497/d-njUG_H_400x400.jpg",BBC Two
-#EXTVLCOPT:network-caching=1000
-http://w4.12all.tv:4000/play/bbc2/index.m3u8
-
-#EXTINF:0 tvg-id="ITV.uk" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png",ITV 1
-#EXTVLCOPT:network-caching=1000
-http://w4.12all.tv:4000/play/itv1/index.m3u8
-
-
-
-#EXTINF:0 tvg-id="8 TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/8tv_logo_2021.svg/1200px-8tv_logo_2021.svg.png",8TV
-https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/manifest.m3u8
-
-#EXTINF:-1 tvg-id="VOTV" tvg-logo="https://seu-e.cat/logotips/9826145015.PNG",VOTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta119.cdnmedia.tv/votvlive/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://img.beteve.cat/wp-content/uploads/2021/08/logo_beteve_2021.png",betevé
-https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
-
-
-
-#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png",TDP
-https://ztnr.rtve.es/ztnr/1712295.m3u8
-
-#EXTINF:0 tvg-id="E3.TV" tvg-logo="https://img.ccma.cat/multimedia/png/9/9/1619526053499.png",Esport 3
-https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
-
-#EXTINF:0 tvg-id="BarcaTV.TV" tvg-logo="https://pbs.twimg.com/profile_images/1583028176413986816/Rwm5YcZA_400x400.jpg",Barça TV
-#EXTVLCOPT:network-caching=1000
-http://93.152.174.144:4000/play/barcatv/index.m3u8
-
-
-#EXTINF:0 tvg-id="Clan.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",Clan
-https://ztnr.rtve.es/ztnr/5466990.m3u8
-
-#EXTINF:0 tvg-id="C33.TV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/SX3_positiu.png",SX3 24H
-https://directes-tv-cat.ccma.cat/live-origin/super3-hls/master.m3u8
-
-
-#EXTINF:-1 tvg-id="ATVHD.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisió.png",ATV Andorra
-https://videos.rtva.ad/live/rtva/playlist.m3u8
-
-#EXTINF:0 tvg-id="RTP 1" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Internacional-em-direto-Online.png",RTP Internacional
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-#EXTVLCOPT:network-caching=1000
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logótipo_TVI.png",TVI
-#EXTVLCOPT:network-caching=1000
-https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
-
-#EXTINF:0,M6
-#EXTVLCOPT:network-caching=1000
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/TF1_Séries_Films_logo_2018.svg/2560px-TF1_Séries_Films_logo_2018.svg.png",TF1 Séries Films
-#EXTVLCOPT:network-caching=1000
-http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1280px-Rai_3_-_Logo_2016.svg.png",Rai 3
-#EXTVLCOPT:network-caching=1000
-http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tgla7/picture?width=200&height=200",La7 Italia
-https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/la7fb/picture?width=200&height=200",La7d Italia
-https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",El Nueve Argentina
-https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png",El Trece Argentina
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/2560px-NHK_General_TV_logo.svg.png",NHK G
-#EXTVLCOPT:network-caching=1000
-http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1024px-NHK_Educational_TV_logo.svg.png",NHK E
-#EXTVLCOPT:network-caching=1000
-http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
-
-#EXTINF:-1 tvg-id="NHK.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK World Japan EN
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-
-#EXTINF:36 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
-https://tbs2.mov3.co/hls/tbs.m3u8?checkedby:iptvcat.com
-
-
-
-#EXTINF:0 tvg-id="ETB1.TV" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/01/etb1.png",ETB 1
-#EXTVLCOPT:network-caching=1000
-https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-
-#EXTINF:0 tvg-id="ETB2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png",ETB 2
-#EXTVLCOPT:network-caching=1000
-https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-
-#EXTINF:0 tvg-id="ETB Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/1280px-ETB_Basque_2022_logo.svg.png",ETB Basque
-#EXTVLCOPT:network-caching=1000
-https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
-
-#EXTINF:0 tvg-id="TVGA Europa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Televisión_de_Galicia_Logo.svg",TV Galicia
-#EXTVLCOPT:network-caching=1000
-https://europa-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:0 tvg-id="TVG 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/TvG2.jpg",TVG 2
-#EXTVLCOPT:network-caching=1000
-https://events2-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:0 tvg-id="TV3CAT.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/2560px-TV3CAT.svg.png",TV3CAT
-#EXTVLCOPT:network-caching=1000
-https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-
-#EXTINF:0 tvg-id="Telemadrid Int." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/1200px-TeleMadrid.svg.png",Telemadrid
-#EXTVLCOPT:network-caching=1000
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
-
-#EXTINF:0 tvg-id="La Otra" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsRjDgS5Tu7sA8hxIXuCI3OTXdv5Gm-R1Hlsafb8E_&s",LaOtra
-#EXTVLCOPT:network-caching=1000
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
-
-#EXTINF:0 tvg-id="À Punt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27À_Punt_%282017-%29.svg/1200px-Logotip_d%27À_Punt_%282017-%29.svg.png",À Punt
-#EXTVLCOPT:network-caching=1000
-https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
-
-
-
-#EXTINF:0 tvg-id="24Horas.Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",Canal 24 horas
-#EXTVLCOPT:network-caching=1000
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-#EXTINF:-1 tvg-id="324.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/1200px-324_%28CCMA%29_logo.svg.png",3/24
-https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
-
-#EXTINF:-1 tvg-id="DW Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-#EXTINF:0 tvg-id="Euronews Français" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/512px-Euronews_2016_logo.svg.png",Euronews en Español
-#EXTVLCOPT:network-caching=1000
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:0 tvg-id="BBC World News Europe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/2560px-BBC_World_News_2022.svg.png",BBC World News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:network-caching=1000
-http://ott-cdn.ucom.am/s24/index.m3u8
-
-#EXTINF:-1 tvg-id="CNN International Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/900px-CNN_International_logo.svg.png",CNN
-#EXTVLCOPT:network-caching=1000
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RaiN.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/2560px-Rai_News_24_logo_%282022%29.svg.png",Rai News 24
-https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+tvg-id="" tvg-logo""
