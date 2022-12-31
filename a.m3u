@@ -113,6 +113,10 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/29303
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/52386
 
+#EXTINF:0 tvg-id="" tvg-logo="https://futbar.com/logos/laliga_white_logo.png",LaLiga TV Bar
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2553
+
 #EXTINF:0,BBC One
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/28750
@@ -128,8 +132,6 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/28865
 #EXTINF:0,BBC Four/CBeebies
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/28839
-
-
 
 
 
