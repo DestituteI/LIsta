@@ -101,19 +101,19 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/52395
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2539
 
-#EXTINF:0 tvg-id=""tvg-logo="https://es.wikipedia.org/wiki/LaLigaTV_por_M%2B#/media/Archivo:LaLigaTV_por_Movistar_Plus+_2022_logo.svg",M+ LaLiga
+#EXTINF:0 tvg-id="" tvg-logo="https://es.wikipedia.org/wiki/LaLigaTV_por_M%2B#/media/Archivo:LaLigaTV_por_Movistar_Plus+_2022_logo.svg",M+ LaLiga
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29300
 
-#EXTINF:0 tvg-id=""tvg-logo="https://es.wikipedia.org/wiki/DAZN_LaLiga#/media/Archivo:DAZN_LaLiga_logo.svg",Dazn LaLiga
+#EXTINF:0 tvg-id="" tvg-logo="https://es.wikipedia.org/wiki/DAZN_LaLiga#/media/Archivo:DAZN_LaLiga_logo.svg",Dazn LaLiga
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29303
 
-#EXTINF:0 tvg-id=""tvg-logo="https://es.wikipedia.org/wiki/LaLiga_SmartBank_TV#/media/Archivo:LaLiga_SmartBank_TV_logo.svg",Laliga Smartbank TV
+#EXTINF:0 tvg-id="" tvg-logo="https://es.wikipedia.org/wiki/LaLiga_SmartBank_TV#/media/Archivo:LaLiga_SmartBank_TV_logo.svg",Laliga Smartbank TV
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/52386
 
-#EXTINF:0 tvg-id=""tvg-logo="https://futbar.com/logos/laliga_white_logo.png",LaLiga TV Bar
+#EXTINF:0 tvg-id="" tvg-logo="https://futbar.com/logos/laliga_white_logo.png",LaLiga TV Bar
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2553
 
