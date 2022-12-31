@@ -22,11 +22,11 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/2536
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2552
 
-#EXTINF:0 tvg-id="0PorMovistarPlus.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/2560px-0_por_Movistar_Plus%2B_2022_logo.svg.png",#0 por Movistar+
+#EXTINF:0 tvg-id="0PorMovistarPlus.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/2560px-0_por_Movistar_Plus%2B_2022_logo.svg.png",M+ #0
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2603
 
-#EXTINF:0 tvg-id="VamosPorMovistarPlus.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png",#Vamos por Movistar+
+#EXTINF:0 tvg-id="VamosPorMovistarPlus.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png",M+ #Vamos
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29313
 
@@ -37,12 +37,100 @@ https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="MovistarEstrenos.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png",Estrenos por Movistar+
+#EXTINF:0 tvg-id="M+ Estrenos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png",M+ Estrenos
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2588
 
-#EXTINF:0 tvg-id="MovistarEstrenos2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/500px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png",Estrenos 2 por Movistar+
+#EXTINF:0 tvg-id="MovistarEstrenos2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/500px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png",M+ Estrenos 2
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/52388
+
+#EXTINF:0,Movistar+ Acción
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2591
+
+#EXTINF:0,Movistar+ Comedia
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/52347
+
+#EXTINF:0,Movistar+ Drama
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/29304
+
+#EXTINF:0,Movistar+ Cine Español
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2581
+
+#EXTINF:0,Movistar+ Fest
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/29256
+
+#EXTINF:0,Movistar+ La Resistencia
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/29271
+
+#EXTINF:0,TCM
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2537
+
+#EXTINF:0,Hollywood
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2557
+
+#EXTINF:0,XTRM
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/52334
+
+#EXTINF:0,Sundance TV
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/29225
+
+#EXTINF:0,Dark
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/52371
+
+#EXTINF:0,SOMOS
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/29311
+
+#EXTINF:0,BOM CINE
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/52395
+
+#EXTINF:0,Paramount Network
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2539
+
+#EXTINF:0 tvg-id="" tvg-logo="https://es.wikipedia.org/wiki/LaLigaTV_por_M%2B#/media/Archivo:LaLigaTV_por_Movistar_Plus+_2022_logo.svg",M+ LaLiga
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/29300
+
+#EXTINF:0 tvg-id="" tvg-logo="https://es.wikipedia.org/wiki/DAZN_LaLiga#/media/Archivo:DAZN_LaLiga_logo.svg",Dazn LaLiga
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/29303
+
+#EXTINF:0 tvg-id="" tvg-logo="https://es.wikipedia.org/wiki/LaLiga_SmartBank_TV#/media/Archivo:LaLiga_SmartBank_TV_logo.svg",Laliga Smartbank TV
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/52386
+
+#EXTINF:0,BBC One
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/28750
+
+#EXTINF:0,BBC Two
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2949
+
+#EXTINF:0,BBC Three/CBBC
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/28865
+
+#EXTINF:0,BBC Four/CBeebies
+#EXTVLCOPT:network-caching=1000
+http://kk03es.abcnew.site:8880/12ms050077/54692224/28839
+
+
+
+
 
 tvg-id="" tvg-logo=""
