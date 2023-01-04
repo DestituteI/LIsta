@@ -1,6 +1,6 @@
 #EXTM3U
 
-DIAL 001-010 Generalistas
+DIAL 001-010 Generalistas 
 
 #EXTINF:-1 tvg-id="la1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
@@ -67,35 +67,35 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/2581
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29256
 
-#EXTINF:0 tvg-id="La Resistencia 24H" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2022/01/La-Resistencia-por-M_Color-Positivo_RGB-scaled.jpg",Movistar+ La Resistencia 24H
+#EXTINF:0 tvg-id="La Resistencia 24H" tvg-logo="https://www.dropbox.com/s/3r73o5nqeq9skac/La-Resistencia-24h.PNG",Movistar+ La Resistencia 24H
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29271
 
-#EXTINF:0,TCM
+#EXTINF:0 tvg-id="TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1280px-TCM_logo.svg.png",TCM
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2537
 
-#EXTINF:0,Hollywood
+#EXTINF:0 tvg-id="Canal Hollywood HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/200px-HWD_logo.svg.png",Hollywood
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2557
 
-#EXTINF:0,XTRM
+#EXTINF:0 tvg-id="" tvg-logo="",XTRM
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/52334
 
-#EXTINF:0,Sundance TV
+#EXTINF:0 tvg-id="" tvg-logo="",Sundance TV
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29225
 
-#EXTINF:0,Dark
+#EXTINF:0 tvg-id="" tvg-logo="",Dark
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/52371
 
-#EXTINF:0,SOMOS
+#EXTINF:0 tvg-id="" tvg-logo="",SOMOS
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29311
 
-#EXTINF:0,BOM CINE
+#EXTINF:0 tvg-id="" tvg-logo="",BOM CINE
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/52395
 
