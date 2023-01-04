@@ -113,6 +113,9 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/29303
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/52386
 
+#EXTINF:-1 tvg-id="m..liga.campeones.1.es" tvg-name="ES010:M Liga de Campeones HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES010MLigadeCam.png" group-title="ES Deportes",ES010:M Liga de Campeones HD
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2594
+
 #EXTINF:0 tvg-id="" tvg-logo="https://futbar.com/logos/laliga_white_logo.png",LaLiga TV Bar
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2553
