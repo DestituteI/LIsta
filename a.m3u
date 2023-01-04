@@ -1,5 +1,7 @@
 #EXTM3U
 
+DIAL 001-010 Generalistas
+
 #EXTINF:-1 tvg-id="la1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
@@ -49,25 +51,23 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/52388
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2591
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acción_por_Movistar_Plus%2B_2022_logo.svg/1200px-Acción_por_Movistar_Plus%2B_2022_logo.svg.png
-
-#EXTINF:0,Movistar+ Comedia
+#EXTINF:0 tvg-id="M+ Comedia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Comedia_por_Movistar_Plus%2B_2022_logo.svg/2560px-Comedia_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar+ Comedia
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/52347
 
-#EXTINF:0,Movistar+ Drama
+#EXTINF:0 tvg-id="M+ Drama HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/1200px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar+ Drama
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29304
 
-#EXTINF:0,Movistar+ Cine Español
+#EXTINF:0 tvg-id="M+ Cine Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cine_Español_por_Movistar_Plus%2B_2022_logo.svg/640px-Cine_Español_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar+ Cine Español
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2581
 
-#EXTINF:0,Movistar+ Fest
+#EXTINF:0 tvg-id="M+ Fest HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/1200px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar+ Fest
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29256
 
-#EXTINF:0,Movistar+ La Resistencia
+#EXTINF:0 tvg-id="La Resistencia 24H" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2022/01/La-Resistencia-por-M_Color-Positivo_RGB-scaled.jpg",Movistar+ La Resistencia 24H
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29271
 
@@ -115,7 +115,7 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/29303
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/52386
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png",M+ Liga de Campeones
+#EXTINF:0 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png",M+ Liga de Campeones
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2594
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",BBC One
