@@ -67,7 +67,7 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/2581
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29256
 
-#EXTINF:0 tvg-id="La Resistencia 24H" tvg-logo="https://www.dropbox.com/s/3r73o5nqeq9skac/La-Resistencia-24h.PNG",Movistar+ La Resistencia 24H
+#EXTINF:0 tvg-id="La Resistencia 24H" tvg-logo="https://i.ibb.co/qkRdpnm/La-Resistencia-24h.png",Movistar+ La Resistencia 24H
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29271
 
@@ -79,27 +79,27 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/2537
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2557
 
-#EXTINF:0 tvg-id="" tvg-logo="",XTRM
+#EXTINF:0 tvg-id="XTRM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_España.png",XTRM
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/52334
 
-#EXTINF:0 tvg-id="" tvg-logo="",Sundance TV
+#EXTINF:0 tvg-id="Sundance TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png",Sundance TV
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29225
 
-#EXTINF:0 tvg-id="" tvg-logo="",Dark
+#EXTINF:0 tvg-id="DARK" tvg-logo="https://ipmark.com/wp-content/uploads/2016/10/DARK-Canal-Televisión-Terror.png",Dark
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/52371
 
-#EXTINF:0 tvg-id="" tvg-logo="",SOMOS
+#EXTINF:0 tvg-id="Somos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png",SOMOS
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29311
 
-#EXTINF:0 tvg-id="" tvg-logo="",BOM CINE
+#EXTINF:0 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1920px-Logo-bom.svg.png" tvg-logo="",BOM CINE
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/52395
 
-#EXTINF:0,Paramount Network
+#EXTINF:0 tvg-id="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1024px-Paramount_Network.svg.png",Paramount Network
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2539
 
