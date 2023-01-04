@@ -101,15 +101,15 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/52395
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2539
 
-#EXTINF:0 tvg-id="" tvg-logo="https://es.wikipedia.org/wiki/LaLigaTV_por_M%2B#/media/Archivo:LaLigaTV_por_Movistar_Plus+_2022_logo.svg.png",M+ LaLiga
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/640px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png",M+ LaLiga
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29300
 
-#EXTINF:0 tvg-id="" tvg-logo="https://es.wikipedia.org/wiki/DAZN_LaLiga#/media/Archivo:DAZN_LaLiga_logo.svg.png",Dazn LaLiga
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/800px-DAZN_LaLiga_logo.svg.png",Dazn LaLiga
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29303
 
-#EXTINF:0 tvg-id="" tvg-logo="https://es.wikipedia.org/wiki/LaLiga_SmartBank_TV#/media/Archivo:LaLiga_SmartBank_TV_logo.svg.png",Laliga Smartbank TV
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/800px-LaLiga_SmartBank_TV_logo.svg.png",Laliga Smartbank TV
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/52386
 
@@ -117,7 +117,7 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/52386
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2553
 
-#EXTINF:0,BBC One
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",BBC One
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/28750
 
@@ -132,6 +132,18 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/28865
 #EXTINF:0,BBC Four/CBeebies
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/28839
+
+#EXTINF:-1 tvg-id="itv1.gb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/225px-ITV1_logo_%282022%29.svg.png",ITV 1
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2906
+
+#EXTINF:-1 tvg-id="itv2.gb" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK052ITV2.png",ITV 2
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2905
+
+#EXTINF:-1 tvg-id="itv3.gb" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK053ITV3.png",ITV 3
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2904
+
+#EXTINF:-1 tvg-id="itv4.gb" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK054ITV4.png",ITV 4
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2903
 
 
 
