@@ -39,6 +39,8 @@ https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
+Dial 011-0
+
 #EXTINF:0 tvg-id="M+ Estrenos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png",M+ Estrenos
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2588
@@ -95,13 +97,16 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/52371
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29311
 
-#EXTINF:0 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1920px-Logo-bom.svg.png" tvg-logo="",BOM CINE
+#EXTINF:0 tvg-id="BOM Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1920px-Logo-bom.svg.png",BOM CINE
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/52395
 
 #EXTINF:0 tvg-id="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1024px-Paramount_Network.svg.png",Paramount Network
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2539
+
+#EXTINF:-1 channel-id="pluto-5f1ac1f1b66c76000790ef27" tvg-id="5f1ac1f1b66c76000790ef27" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png",Pluto TV Cine Estelar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/640px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png",M+ LaLiga
 #EXTVLCOPT:network-caching=1000
