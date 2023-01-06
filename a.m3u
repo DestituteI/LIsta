@@ -33,7 +33,7 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/29313
 #EXTINF:-1 tvg-id="TV3.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png",TV3
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://es.m.wikipedia.org/wiki/Canal_Sur_Andalucía#/media/Archivo:Canal_Sur_Andalucía_SAT.png",Canal Sur Andalucía
+#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andalucía.png",Canal Sur Andalucía
 #EXTVLCOPT:network-caching=1000
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
@@ -107,6 +107,9 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/2539
 #EXTINF:-1 channel-id="pluto-5f1ac1f1b66c76000790ef27" tvg-id="5f1ac1f1b66c76000790ef27" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png",Pluto TV Cine Estelar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 channel-id="pluto-5f1ac2591dd8880007bb7d6d" tvg-id="5f1ac2591dd8880007bb7d6d" tvg-chno="105" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png",Pluto TV Cine Acción
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:0 tvg-id="M+ LaLigaTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/640px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png",M+ LaLiga
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29300
@@ -165,7 +168,7 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/2811
 #EXTINF:-1 tvg-id="france.5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/263px-France_5_2018.svg.png",France 5
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2810
 
-#EXTINF:-1 tvg-id="france.o.fr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR057FranceO.png" group-title="FR Ent",FR057:France Ô
+#EXTINF:-1 tvg-id="cstar.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/langfr-300px-Logo_projet_CStar.svg.png",CStar
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2809
 
 tvg-id="" tvg-logo=""
