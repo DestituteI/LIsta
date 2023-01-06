@@ -156,4 +156,16 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/2932
 #EXTINF:-1 tvg-id="france.2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/150px-France_2_2018.svg.png",France 2
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2814
 
+#EXTINF:-1 tvg-id="france.3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/188px-France_3_2018.svg.png",France 3
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2812
+
+#EXTINF:-1 tvg-id="france.4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/188px-France_4_2018.svg.png",France 4
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2811
+
+#EXTINF:-1 tvg-id="france.5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/263px-France_5_2018.svg.png",France 5
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2810
+
+#EXTINF:-1 tvg-id="france.o.fr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR057FranceO.png" group-title="FR Ent",FR057:France Ô
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2809
+
 tvg-id="" tvg-logo=""
