@@ -154,14 +154,10 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/2904
 #EXTINF:-1 tvg-id="itv4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1920px-ITV4_logo_%282022%29.svg.png",ITV 4
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2903
 
-#EXTINF:-1 tvg-id="channel4.uk" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK025Channel4.png" group-title="Reino Unido",Channel 4
+#EXTINF:-1 tvg-id="channel4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Channel_4_2022.svg/1200px-Channel_4_2022.svg.png",Channel 4
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2932
 
 #EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK026:Channel 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK026Channel5.png" group-title="UK Ent",UK026:Channel 5
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2931
-
-
-
-<a href="https://ibb.co/Xpcv6vr"><img src="https://i.ibb.co/y5HbKbc/Movistar-Pop-Up.png" alt="Movistar-Pop-Up" border="0"></a>
 
 tvg-id="" tvg-logo=""
