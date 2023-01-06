@@ -39,7 +39,7 @@ https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
-Dial 011-0
+Dial 011-030 Cine
 
 #EXTINF:0 tvg-id="M+ Estrenos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png",M+ Estrenos
 #EXTVLCOPT:network-caching=1000
@@ -48,6 +48,9 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/2588
 #EXTINF:0 tvg-id="MovistarEstrenos2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/500px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png",M+ Estrenos 2
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/52388
+
+#EXTINF:-1 tvg-id="M+ Vacaciones" tvg-logo="https://i.ibb.co/y5HbKbc/Movistar-Pop-Up.png",M+ PopUp
+http://kk03es.abcnew.site:8880/12ms050077/54692224/52373
 
 #EXTINF:0 tvg-id="M+ Acción HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acción_por_Movistar_Plus%2B_2022_logo.svg/1200px-Acción_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar+ Acción
 #EXTVLCOPT:network-caching=1000
@@ -151,13 +154,14 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/2904
 #EXTINF:-1 tvg-id="itv4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1920px-ITV4_logo_%282022%29.svg.png",ITV 4
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2903
 
-#EXTINF:-1 tvg-id="channel.4.gb" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK025Channel4.png" group-title="Reino Unido",UK025:Channel 4
+#EXTINF:-1 tvg-id="channel4.uk" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK025Channel4.png" group-title="Reino Unido",Channel 4
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2932
 
-#EXTINF:-1 tvg-id="channel.5.gb" tvg-name="UK026:Channel 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK026Channel5.png" group-title="UK Ent",UK026:Channel 5
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK026:Channel 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK026Channel5.png" group-title="UK Ent",UK026:Channel 5
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2931
 
-#EXTINF:-1 tvg-id="mega.es" tvg-name="ES234:M+ Cracks" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES234" group-title="ES Cultura",ES234:M+ Cracks
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52373
+
+
+<a href="https://ibb.co/Xpcv6vr"><img src="https://i.ibb.co/y5HbKbc/Movistar-Pop-Up.png" alt="Movistar-Pop-Up" border="0"></a>
 
 tvg-id="" tvg-logo=""
