@@ -111,7 +111,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="M+ Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/1280px-Series_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar+ Series
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29302
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2585
 
 #EXTINF:-1 tvg-id="M+ Series 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/1200px-Series_2_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar+ Series 2
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2579
@@ -124,6 +124,12 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/2598
 
 #EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png",TNT
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2534
+
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/300px-Comedy_Central_2018.svg.png",Comedy Central
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2574
+
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-logo="https://i.ibb.co/SRH3h2F/LOGO-COSMO.png",Cosmo
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2573
 
 #EXTINF:0 tvg-id="M+ LaLigaTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/640px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png",M+ LaLiga
 #EXTVLCOPT:network-caching=1000
@@ -183,7 +189,7 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/2915
 #EXTINF:-1 tvg-id="more4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1200px-More4_logo_2018.svg.png",More 4
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2898
 
-#EXTINF:-1 tvg-id="tf1.fr" vg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/langfr-225px-TF1_%282013%29.svg.png",TF1 HD
+#EXTINF:-1 tvg-id="tf1.fr" vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TF1_logo_2013.svg/1200px-TF1_logo_2013.svg.png",TF1
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2779
 
 #EXTINF:-1 tvg-id="france.2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/150px-France_2_2018.svg.png",France 2
@@ -201,7 +207,7 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/2810
 #EXTINF:-1 tvg-id="m6.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/langfr-225px-Logo_M6_%282020%2C_fond_clair%29.svg.png",M6
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2801
 
-#EXTINF:-1 tvg-id="tf1.series.films.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/TF1_Séries_Films_logo_2018.svg/2560px-TF1_Séries_Films_logo_2018.svg.png",TF1 Series Films HD
+#EXTINF:-1 tvg-id="tf1.series.films.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/TF1_Séries_Films_logo_2018.svg/2560px-TF1_Séries_Films_logo_2018.svg.png",TF1 Series Films
 http://kk03es.abcnew.site:8880/12ms050077/54692224/27964
 
 #EXTINF:-1 tvg-id="cstar.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/langfr-300px-Logo_projet_CStar.svg.png",CStar
