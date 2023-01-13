@@ -110,6 +110,21 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef
 #EXTINF:-1 channel-id="pluto-5f1ac2591dd8880007bb7d6d" tvg-id="5f1ac2591dd8880007bb7d6d" tvg-chno="105" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png",Pluto TV Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-id="M+ Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/1280px-Series_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar+ Series
+http://kk03es.abcnew.site:8880/12ms050077/54692224/52383
+
+#EXTINF:-1 tvg-id="M+ Series 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/1200px-Series_2_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar+ Series 2
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2579
+
+#EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1920px-FOX_wordmark-red_2.svg.png",Fox
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2561
+
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1920px-AXN_logo_%282015%29.svg.png",AXN
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2598
+
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png",TNT
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2534
+
 #EXTINF:0 tvg-id="M+ LaLigaTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/640px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png",M+ LaLiga
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29300
