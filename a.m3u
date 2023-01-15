@@ -708,4 +708,7 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/52331
 #EXTINF:-1 tvg-id="la.1.es" tvg-name="ES277:Bon Dia TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES277" group-title="ES Ent",ES277:Bon Dia TV
 http://kk03es.abcnew.site:8880/12ms050077/54692224/52330
 
+#EXTINF:-1 tvg-id="" tvg-name="US002:ABC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US002ABCHD.png" group-title="USA ABC",US002:ABC HD
+http://kk03es.abcnew.site:8880/12ms050077/54692224/3166
+
 tvg-id="" tvg-logo=""
