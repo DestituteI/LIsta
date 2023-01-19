@@ -48,6 +48,9 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/52388
 #EXTINF:-1 tvg-id="M+ Vacaciones" tvg-logo="https://i.ibb.co/y5HbKbc/Movistar-Pop-Up.png",M+ PopUp
 http://kk03es.abcnew.site:8880/12ms050077/54692224/52373
 
+#EXTINF:-1 tvg-id="M+ Clásicos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Clásicos_por_Movistar_Plus%2B_2022_logo.svg/1920px-Clásicos_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar+ Clásicos
+http://kk03es.abcnew.site:8880/12ms050077/54692224/2583
+
 #EXTINF:0 tvg-id="M+ Acción HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acción_por_Movistar_Plus%2B_2022_logo.svg/1200px-Acción_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar+ Acción
 #EXTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/2591
