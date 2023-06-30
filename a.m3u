@@ -1,723 +1,164 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="la1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" tvg-name="La 1",La 1
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
-#EXTINF:-1 tvg-id="la2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" tvg-name="La 2",La 2
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:0 tvg=id="antena3.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Antena_3.svg/200px-Antena_3.svg.png",Antena 3
-#EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2599
-
-#EXTINF:0 tvg-id="cuatro.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/2560px-Logotipo_de_Cuatro.svg.png",Cuatro
-#EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2571
-
-#EXTINF:0 tvg-id="telecinco.TV" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png",Telecinco
-#EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2536
-
-#EXTINF:0 tvg-id="lasexta.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1425px-La_Sexta_%28A3M%29.svg.png",La Sexta
-#EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2552
-
-#EXTINF:0 tvg-id="0PorMovistarPlus.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/2560px-0_por_Movistar_Plus%2B_2022_logo.svg.png",M+ #0
-#EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2603
-
-#EXTINF:0 tvg-id="VamosPorMovistarPlus.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png",M+ #Vamos
-#EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29313
-
-#EXTINF:-1 tvg-id="TV3.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png",TV3
+#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png",TV3
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andalucía.png",Canal Sur Andalucía
+#EXTINF:0 tvg-id="Canal 33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/150px-33_%28CCMA%29.svg.png",SX3/El 33
+https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Portlandia.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Portlandia_logo.png/330px-Portlandia_logo.png",Portlandia
 #EXTVLCOPT:network-caching=1000
-https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+https://99d1e7f275ff4c95aa3f108d03329711.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_Portlandia/playlist.m3u8
 
-#EXTINF:0 tvg-id="M+ Estrenos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png",M+ Estrenos
+
+#EXTINF:0 tvg-id="8 TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/8tv_logo_2021.svg/1200px-8tv_logo_2021.svg.png",8TV
+https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/manifest.m3u8
+
+#EXTINF:-1 tvg-id="VOTV" tvg-logo="https://seu-e.cat/logotips/9826145015.PNG",VOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta119.cdnmedia.tv/votvlive/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://img.beteve.cat/wp-content/uploads/2021/08/logo_beteve_2021.png",betevé
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+
+
+
+#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png",TDP
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+
+#EXTINF:0 tvg-id="E3.TV" tvg-logo="https://img.ccma.cat/multimedia/png/9/9/1619526053499.png",Esport 3
+https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
+
+#EXTINF:0 tvg-id="BarcaTV.TV" tvg-logo="https://pbs.twimg.com/profile_images/1583028176413986816/Rwm5YcZA_400x400.jpg",Barça TV
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2588
+http://93.152.174.144:4000/play/barcatv/index.m3u8
 
-#EXTINF:0 tvg-id="MovistarEstrenos2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/500px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png",M+ Estrenos 2
+
+#EXTINF:0 tvg-id="Clan.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",Clan
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+
+#EXTINF:0 tvg-id="C33.TV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/SX3_positiu.png",SX3 24H
+https://directes-tv-cat.ccma.cat/live-origin/super3-hls/master.m3u8
+
+
+#EXTINF:-1 tvg-id="ATVHD.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisió.png",ATV Andorra
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+
+#EXTINF:0 tvg-id="RTP 1" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Internacional-em-direto-Online.png",RTP Internacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52388
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="M+ Vacaciones" tvg-logo="https://i.ibb.co/y5HbKbc/Movistar-Pop-Up.png",M+ PopUp
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52373
-
-#EXTINF:-1 tvg-id="M+ Clásicos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Clásicos_por_Movistar_Plus%2B_2022_logo.svg/1920px-Clásicos_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar+ Clásicos
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2583
-
-#EXTINF:0 tvg-id="M+ Acción HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acción_por_Movistar_Plus%2B_2022_logo.svg/1200px-Acción_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar+ Acción
+#EXTINF:0 tvg-id="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logótipo_TVI.png",TVI
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2591
+https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 
-#EXTINF:0 tvg-id="M+ Comedia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Comedia_por_Movistar_Plus%2B_2022_logo.svg/2560px-Comedia_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar+ Comedia
+#EXTINF:0,M6
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52347
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 
-#EXTINF:0 tvg-id="M+ Drama HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/1200px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar+ Drama
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/TF1_Séries_Films_logo_2018.svg/2560px-TF1_Séries_Films_logo_2018.svg.png",TF1 Séries Films
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29304
+http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
 
-#EXTINF:0 tvg-id="M+ Cine Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cine_Español_por_Movistar_Plus%2B_2022_logo.svg/640px-Cine_Español_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar+ Cine Español
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1280px-Rai_3_-_Logo_2016.svg.png",Rai 3
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2581
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 
-#EXTINF:0 tvg-id="M+ Fest HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/1200px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar+ Fest
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tgla7/picture?width=200&height=200",La7 Italia
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/la7fb/picture?width=200&height=200",La7d Italia
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",El Nueve Argentina
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png",El Trece Argentina
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/2560px-NHK_General_TV_logo.svg.png",NHK G
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29256
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
 
-#EXTINF:0 tvg-id="La Resistencia 24H" tvg-logo="https://i.ibb.co/qkRdpnm/La-Resistencia-24h.png",Movistar+ La Resistencia 24H
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1024px-NHK_Educational_TV_logo.svg.png",NHK E
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29271
+http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
 
-#EXTINF:0 tvg-id="TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1280px-TCM_logo.svg.png",TCM
+#EXTINF:-1 tvg-id="NHK.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK World Japan EN
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:36 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
+https://tbs2.mov3.co/hls/tbs.m3u8?checkedby:iptvcat.com
+
+
+
+#EXTINF:0 tvg-id="ETB1.TV" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/01/etb1.png",ETB 1
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2537
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 
-#EXTINF:0 tvg-id="Canal Hollywood HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/200px-HWD_logo.svg.png",Hollywood
+#EXTINF:0 tvg-id="ETB2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png",ETB 2
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2557
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
-#EXTINF:0 tvg-id="XTRM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_España.png",XTRM
+#EXTINF:0 tvg-id="ETB Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/1280px-ETB_Basque_2022_logo.svg.png",ETB Basque
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52334
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 
-#EXTINF:0 tvg-id="Sundance TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png",Sundance TV
+#EXTINF:0 tvg-id="TVGA Europa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Televisión_de_Galicia_Logo.svg",TV Galicia
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29225
+https://europa-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:0 tvg-id="DARK" tvg-logo="https://ipmark.com/wp-content/uploads/2016/10/DARK-Canal-Televisión-Terror.png",Dark
+#EXTINF:0 tvg-id="TVG 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/TvG2.jpg",TVG 2
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52371
+https://events2-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:0 tvg-id="Somos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png",SOMOS
+#EXTINF:0 tvg-id="TV3CAT.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/2560px-TV3CAT.svg.png",TV3CAT
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29311
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 
-#EXTINF:0 tvg-id="BOM Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1920px-Logo-bom.svg.png",BOM CINE
+#EXTINF:0 tvg-id="Telemadrid Int." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/1200px-TeleMadrid.svg.png",Telemadrid
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52395
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
-#EXTINF:0 tvg-id="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1024px-Paramount_Network.svg.png",Paramount Network
+#EXTINF:0 tvg-id="La Otra" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsRjDgS5Tu7sA8hxIXuCI3OTXdv5Gm-R1Hlsafb8E_&s",LaOtra
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2539
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f1ac1f1b66c76000790ef27" tvg-id="5f1ac1f1b66c76000790ef27" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png",Pluto TV Cine Estelar
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 channel-id="pluto-5f1ac2591dd8880007bb7d6d" tvg-id="5f1ac2591dd8880007bb7d6d" tvg-chno="105" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png",Pluto TV Cine Acción
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="M+ Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/1280px-Series_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar+ Series
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2585
-
-#EXTINF:-1 tvg-id="M+ Series 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/1200px-Series_2_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar+ Series 2
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2579
-
-#EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1920px-FOX_wordmark-red_2.svg.png",Fox
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2561
-
-#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1920px-AXN_logo_%282015%29.svg.png",AXN
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2598
-
-#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png",TNT
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2534
-
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/300px-Comedy_Central_2018.svg.png",Comedy Central
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2574
-
-#EXTINF:-1 tvg-id="Cosmo HD" tvg-logo="https://i.ibb.co/SRH3h2F/LOGO-COSMO.png",Cosmo
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2573
-
-#EXTINF:0 tvg-id="M+ LaLigaTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/640px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png",M+ LaLiga
+#EXTINF:0 tvg-id="À Punt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27À_Punt_%282017-%29.svg/1200px-Logotip_d%27À_Punt_%282017-%29.svg.png",À Punt
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29300
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 
-#EXTINF:0 tvg-id="DAZN LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/800px-DAZN_LaLiga_logo.svg.png",Dazn LaLiga
+
+
+#EXTINF:0 tvg-id="24Horas.Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",Canal 24 horas
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29303
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:0 tvg-id="LaLiga SmartBankTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/800px-LaLiga_SmartBank_TV_logo.svg.png",Laliga Smartbank TV
+#EXTINF:-1 tvg-id="324.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/1200px-324_%28CCMA%29_logo.svg.png",3/24
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="DW Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:0 tvg-id="Euronews Français" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/512px-Euronews_2016_logo.svg.png",Euronews en Español
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52386
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png",M+ Liga de Campeones
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2594
-
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1280px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png",M+ Liga de Campeones 1
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52425
-
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1280px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png",M+ Liga de Campeones  2
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52424
-
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png", M+ Deportes
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2587
-
-#EXTINF:0 tvg-id="BBCOneEngland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",BBC One
+#EXTINF:0 tvg-id="BBC World News Europe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/2560px-BBC_World_News_2022.svg.png",BBC World News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/28750
+http://ott-cdn.ucom.am/s24/index.m3u8
 
-#EXTINF:0 tvg-id="BBCTwoEngland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/1200px-BBC_Two_logo_2021.svg.png",BBC Two
+#EXTINF:-1 tvg-id="CNN International Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/900px-CNN_International_logo.svg.png",CNN
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2949
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 tvg-id="BBCThree.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/800px-BBC_Three_2022.svg.png",BBC Three/CBBC
-#EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/28865
-
-#EXTINF:0 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/1280px-BBC_Four_logo_2021.svg.png",BBC Four/CBeebies
-#EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/28839
-
-#EXTINF:-1 tvg-id="itv1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",ITV 1
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2906
-
-#EXTINF:-1 tvg-id="itv2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",ITV 2
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2905
-
-#EXTINF:-1 tvg-id="itv3.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1920px-ITV3_logo_2022.svg.png",ITV 3
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2904
-
-#EXTINF:-1 tvg-id="itv4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1920px-ITV4_logo_%282022%29.svg.png",ITV 4
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2903
-
-#EXTINF:-1 tvg-id="channel4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Channel_4_2022.svg/1200px-Channel_4_2022.svg.png",Channel 4
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2932
-
-#EXTINF:-1 tvg-id="e4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/800px-E4_logo_2018.svg.png",E4
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2918
-
-#EXTINF:-1 tvg-id="film4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Film4_logo_2018.png",Film 4
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2915
-
-#EXTINF:-1 tvg-id="more4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1200px-More4_logo_2018.svg.png",More 4
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2898
-
-#EXTINF:-1 tvg-id="tf1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TF1_logo_2013.svg/1200px-TF1_logo_2013.svg.png",TF1
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2779
-
-#EXTINF:-1 tvg-id="france.2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/150px-France_2_2018.svg.png",France 2
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2814
-
-#EXTINF:-1 tvg-id="france.3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/188px-France_3_2018.svg.png",France 3
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2812
-
-#EXTINF:-1 tvg-id="france.4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/188px-France_4_2018.svg.png",France 4
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2811
-
-#EXTINF:-1 tvg-id="france.5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/263px-France_5_2018.svg.png",France 5
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2810
-
-#EXTINF:-1 tvg-id="m6.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/langfr-225px-Logo_M6_%282020%2C_fond_clair%29.svg.png",M6
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2801
-
-#EXTINF:-1 tvg-id="tf1.series.films.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/TF1_Séries_Films_logo_2018.svg/2560px-TF1_Séries_Films_logo_2018.svg.png",TF1 Séries Films
-http://kk03es.abcnew.site:8880/12ms050077/54692224/27964
-
-#EXTINF:-1 tvg-id="cstar.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/langfr-300px-Logo_projet_CStar.svg.png",CStar
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2809
-
-#EXTINF:-1 tvg-id="es." tvg-name="ES001:#0 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES001#0 HD.png" group-title="ES Ent",ES001:#0 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2603
-#EXTINF:-1 tvg-id="24.horas.es" tvg-name="ES002:24 Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES002 24Horas.png" group-title="ES Ent",ES002:24 Horas
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2602
-#EXTINF:-1 tvg-id="a.e.es" tvg-name="ES003:A&E ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES003A&EES.png" group-title="ES Ent",ES003:A&E ES
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2601
-#EXTINF:-1 tvg-id="amc.es" tvg-name="ES004:AMC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES004AMCES.png" group-title="ES Cine",ES004:AMC HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2600
-#EXTINF:-1 tvg-id="antena.3.es" tvg-name="ES005:Antena 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES005Antena3.png" group-title="ES Ent",ES005:Antena 3 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2599
-#EXTINF:-1 tvg-id="axn.es" tvg-name="ES006:AXN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES006AXNES.png" group-title="ES Cine",ES006:AXN HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2598
-#EXTINF:-1 tvg-id="axn.white.es" tvg-name="ES007:AXN White HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES007AXNWhite.png" group-title="ES Cine",ES007:AXN White HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2597
-#EXTINF:-1 tvg-id="baby.es" tvg-name="ES008:Baby TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES008BabyTV.png" group-title="ES Ninos",ES008:Baby TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2596
-#EXTINF:-1 tvg-id="barca.es" tvg-name="ES009:Barca TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES009BarcaTV.png" group-title="ES Deportes",ES009:Barca TV HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2595
-#EXTINF:-1 tvg-id="m..liga.campeones.1.es" tvg-name="ES010:M Liga de Campeones HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES010MLigadeCam.png" group-title="ES Deportes",ES010:M Liga de Campeones HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2594
-#EXTINF:-1 tvg-id="boing.es" tvg-name="ES011:Boing" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES011Boing.png" group-title="ES Ninos",ES011:Boing
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2593
-#EXTINF:-1 tvg-id="calle.13.es" tvg-name="ES012:Calle 13 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES012Calle13.png" group-title="ES Ent",ES012:Calle 13 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2592
-#EXTINF:-1 tvg-id="YesAction.il" tvg-name="ES013:Movistar Accion HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES013MAction.png" group-title="ES Movistar",ES013:Movistar Accion HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2591
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES014:M Deportes 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES014MDeportes2.png" group-title="ES Deportes",ES014:M Deportes 2
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2590
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES015:M Deportes 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES015MDeportes1.png" group-title="ES Deportes",ES015:M Deportes 1
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2589
-#EXTINF:-1 tvg-id="movistar.estrenos.es" tvg-name="ES016:Movistar Estrenos HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES016MEstrenos.png" group-title="ES Movistar",ES016:Movistar Estrenos HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2588
-#EXTINF:-1 tvg-id="m..deportes.1.es" tvg-name="ES017:M.Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES017MFutbol.png" group-title="ES Deportes",ES017:M.Deportes
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2587
-#EXTINF:-1 tvg-id="movistar.golf.es" tvg-name="ES018:Movistar GOLF HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES018MGolf.png" group-title="ES Deportes",ES018:Movistar GOLF HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2586
-#EXTINF:-1 tvg-id="movistar.series.xtra.es" tvg-name="ES019:Movistar Series Xtra HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES019MSeriesXtra.png" group-title="ES Movistar",ES019:Movistar Series Xtra HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2585
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES020:Toros TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES020Toros.png" group-title="ES Deportes",ES020:Toros TV HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2584
-#EXTINF:-1 tvg-id="movistar.xtra.es" tvg-name="ES021:Movistar Xtra" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES021MXtra.png" group-title="ES Movistar",ES021:Movistar Xtra
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2583
-#EXTINF:-1 tvg-id="canal.cocina.es" tvg-name="ES022:Cocina" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES022Cocina.png" group-title="ES Cultura",ES022:Cocina
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2582
-#EXTINF:-1 tvg-id="movistar.dcine.es" tvg-name="ES023:Movistar Dcine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES023MDcine.png" group-title="ES Movistar",ES023:Movistar Dcine
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2581
-#EXTINF:-1 tvg-id="decasa.es" tvg-name="ES024:DeCasa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES024DeCasa.png" group-title="ES Cultura",ES024:DeCasa
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2580
-#EXTINF:-1 tvg-id="movistar.series.es" tvg-name="ES025:Movistar Series 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES025MSERIESHD.png" group-title="ES Movistar",ES025:Movistar Series 2 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2579
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES026:Movistar Formula 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES026MFormula1.png" group-title="ES Deportes",ES026:Movistar Formula 1 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2578
-#EXTINF:-1 tvg-id="moto.gp.es" tvg-name="ES027:Movistar MotoGP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES027MMotoGP.png" group-title="ES Deportes",ES027:Movistar MotoGP
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2577
-#EXTINF:-1 tvg-id="caza.y.pesca.es" tvg-name="ES028:Caza Y Pesca HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES028CazaYPesca.png" group-title="ES Cultura",ES028:Caza Y Pesca HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2576
-#EXTINF:-1 tvg-id="clan.tve.es" tvg-name="ES029:Clan Tve" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES029ClanTve.png" group-title="ES Ninos",ES029:Clan Tve
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2575
-#EXTINF:-1 tvg-id="comedy.central.es" tvg-name="ES030:Comedy Central HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES030ComedyCentral.png" group-title="ES Ent",ES030:Comedy Central HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2574
-#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES031:Cosmo HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES031Cosmo.png" group-title="ES Cultura",ES031:Cosmo HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2573
-#EXTINF:-1 tvg-id="crimen.investigacion.es" tvg-name="ES032:Crimen+ Investigacion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES032CrimenInvestigation.png" group-title="ES Cultura",ES032:Crimen+ Investigacion
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2572
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES033:Cuatro HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES033Cuatro.png" group-title="ES Musica",ES033:Cuatro HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2571
-#EXTINF:-1 tvg-id="discovery.es" tvg-name="ES034:Discovery Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES034DiscoveryES.png" group-title="ES Cultura",ES034:Discovery Channel HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2570
-#EXTINF:-1 tvg-id="disney.es" tvg-name="ES035:Disney Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES035DisneyES.png" group-title="ES Ninos",ES035:Disney Channel HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2569
-#EXTINF:-1 tvg-id="disney.junior.es" tvg-name="ES036:Disney JR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES036DisneyJRES.png" group-title="ES Ninos",ES036:Disney JR HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2568
-#EXTINF:-1 tvg-id="disney.xd.se" tvg-name="ES037:Disney XD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES037DisneyXDES.png" group-title="ES Ninos",ES037:Disney XD HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2567
-#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES038:Divinity HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES038Divinity.png" group-title="ES Cultura",ES038:Divinity HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2566
-#EXTINF:-1 tvg-id="energy.es" tvg-name="ES039:Energy HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES039Energy.png" group-title="ES Cultura",ES039:Energy HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2565
-#EXTINF:-1 tvg-id="eurosport.1.es" tvg-name="ES040:EUROSPORT 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES040EuroSport1.png" group-title="ES Deportes",ES040:EUROSPORT 1 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2564
-#EXTINF:-1 tvg-id="eurosport.2.es" tvg-name="ES041:EUROSPORT 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES041EuroSport2.png" group-title="ES Deportes",ES041:EUROSPORT 2 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2563
-#EXTINF:-1 tvg-id="fdf.telecinco.es" tvg-name="ES042:FDF TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES042FDF.png" group-title="ES Ent",ES042:FDF TV HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2562
-#EXTINF:-1 tvg-id="fox.es" tvg-name="ES043:Fox HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES043FoxES.png" group-title="ES Ent",ES043:Fox HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2561
-#EXTINF:-1 tvg-id="fox.life.es" tvg-name="ES044:Fox Life HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES044FoxLifeES.png" group-title="ES Ent",ES044:Fox Life HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2560
-#EXTINF:-1 tvg-id="gol.es" tvg-name="ES045:GOL TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES045GOLTV.png" group-title="ES Deportes",ES045:GOL TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2559
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES046:Historia HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES046Historia.png" group-title="ES Cultura",ES046:Historia HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2558
-#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES047:Hollywood" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES047Hollywood.png" group-title="ES Ent",ES047:Hollywood
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2557
-#EXTINF:-1 tvg-id="iberalia.es" tvg-name="ES048:Iberalia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES048Iberalia.png" group-title="ES Cultura",ES048:Iberalia
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2556
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES049:LA 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES049LA1.png" group-title="ES Ent",ES049:LA 1 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2555
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES050:LA 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES050LA2.png" group-title="ES Ent",ES050:LA 2 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2554
-#EXTINF:-1 tvg-id="laliga.es" tvg-name="ES051:LaLiga TV Bar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES051LaLigaTV.png" group-title="ES Deportes",ES051:LaLiga TV Bar
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2553
-#EXTINF:-1 tvg-id="la.sexta.es" tvg-name="ES052:La Sexta HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES052LaSexta.png" group-title="ES Ent",ES052:La Sexta HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2552
-#EXTINF:-1 tvg-id="movistar.comedia.es" tvg-name="ES053:Movistar Comedia HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES053MComedia.png" group-title="ES Movistar",ES053:Movistar Comedia HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2551
-#EXTINF:-1 tvg-id="mega.es" tvg-name="ES054:Mega HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES054Mega.png" group-title="ES Cultura",ES054:Mega HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2550
-#EXTINF:-1 tvg-id="mtv.es" tvg-name="ES055:MTV ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES055MTVES.png" group-title="ES Musica",ES055:MTV ES
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2549
-#EXTINF:-1 tvg-id="nat.geo.wild.es" tvg-name="ES056:NAT GEO WILD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES056NATGEOWILDES.png" group-title="ES Cultura",ES056:NAT GEO WILD HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2548
-#EXTINF:-1 tvg-id="national.geographic.es" tvg-name="ES057:NAT GEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES057NATGEOES.png" group-title="ES Cultura",ES057:NAT GEO HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2547
-#EXTINF:-1 tvg-id="neox.es" tvg-name="ES058:NEOX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES058NEOX.png" group-title="ES Musica",ES058:NEOX HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2546
-#EXTINF:-1 tvg-id="nick.jr.es" tvg-name="ES059:NICK JR ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES059NICKJRES.png" group-title="ES Ninos",ES059:NICK JR ES
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2545
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES060:Nickelodeon HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES060NickelodeonES.png" group-title="ES Ninos",ES060:Nickelodeon HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2544
-#EXTINF:-1 tvg-id="canal.decasa.es" tvg-name="ES061:Canal De Casa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES061CanalDECase.png" group-title="ES Ent",ES061:Canal De Casa
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2543
-#EXTINF:-1 tvg-id="nova.es" tvg-name="ES062:NOVA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES062NOVA.png" group-title="ES Cine",ES062:NOVA
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2542
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES063:Odisea" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES063Odisea.png" group-title="ES Cultura",ES063:Odisea
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2541
-#EXTINF:-1 tvg-id="canal.panda.es" tvg-name="ES064:Panda" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES064Panda.png" group-title="ES Ninos",ES064:Panda
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2540
-#EXTINF:-1 tvg-id="paramount.es" tvg-name="ES065:Paramount" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES065Paramount.png" group-title="ES Cine",ES065:Paramount
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2539
-#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES066:Syfy ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES066SyfyES.png" group-title="ES Cine",ES066:Syfy ES
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2538
-#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES067:TCM ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES067TCMES.png" group-title="ES Cine",ES067:TCM ES
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2537
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES068:Telecinco HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES068Telecinco.png" group-title="ES Cine",ES068:Telecinco HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2536
-#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES069:Teledeport" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES069Teledeport.png" group-title="ES Deportes",ES069:Teledeport
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2535
-#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES070:TNT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES070TNTES.png" group-title="ES Cine",ES070:TNT HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2534
-#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES071:Viajar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES071Viajar.png" group-title="ES Cultura",ES071:Viajar
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2533
-#EXTINF:-1 tvg-id="aragon.es" tvg-name="ES072:Aragon TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES072ARAGONTV.png" group-title="ES Ent",ES072:Aragon TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29320
-#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES073:DKISS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES073DKISS.png" group-title="ES Cultura",ES073:DKISS
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29319
-#EXTINF:-1 tvg-id="canal.extremadura.es" tvg-name="ES074:Extremadura HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES074ExtremaduraHD.png" group-title="ES Cultura",ES074:Extremadura HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29318
-#EXTINF:-1 tvg-id="cazavision.es" tvg-name="ES075:CazavisiÓn" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES075" group-title="ES Cultura",ES075:CazavisiÓn
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29317
-#EXTINF:-1 tvg-id="mezzo.live.es" tvg-name="ES076:MEZZO LIVE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES076MEZZOLIVEHD.png" group-title="ES Musica",ES076:MEZZO LIVE HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29316
-#EXTINF:-1 tvg-id="movistar.cine.espanol.es" tvg-name="ES077:MoviStar Cine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES077MoviStarCine.png" group-title="ES Movistar",ES077:MoviStar Cine
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29315
-#EXTINF:-1 tvg-id="ten.es" tvg-name="ES078:TEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES078MovistarCineDoc&Roll.png" group-title="ES Ent",ES078:TEN
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29314
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES079:Vamos HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES079Vamos.png" group-title="ES Deportes",ES079:Vamos HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29313
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES132:Vamos FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES132VamosFHD.png" group-title="ES Deportes",ES132:Vamos FHD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29260
-#EXTINF:-1 tvg-id="blaze.es" tvg-name="ES080:Blaze TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES080BLAZE.png" group-title="ES Cultura",ES080:Blaze TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29312
-#EXTINF:-1 tvg-id="somos.es" tvg-name="ES081:SOMOS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES081SOMOS.png" group-title="ES Ent",ES081:SOMOS
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29311
-#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES083:Esperanza TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES083" group-title="ES Cultura",ES083:Esperanza TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29309
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES084:M. LaLiga FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES084MLaLIGA.png" group-title="ES Deportes",ES084:M. LaLiga FHD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29308
-#EXTINF:-1 tvg-id="canal.futbol.replay.es" tvg-name="ES085:M+ Liga de Campeones 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES085M LigadeCampeones.png" group-title="ES Deportes",ES085:M+ Liga de Campeones 9
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29307
-#EXTINF:-1 tvg-id="m.deportes.3.es" tvg-name="ES086:M+ Deportes 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES086CanalDEPORTESHD.png" group-title="ES Deportes",ES086:M+ Deportes 3
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29306
-#EXTINF:-1 tvg-id="m.deportes.4.es" tvg-name="ES087:M+ Deportes 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES087CanalDEPORTES2HD.png" group-title="ES Deportes",ES087:M+ Deportes 4
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29305
-#EXTINF:-1 tvg-id="movistar.dcine.es" tvg-name="ES088:Canal Dcine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES088CanalDCINEHD.png" group-title="ES Cine",ES088:Canal Dcine
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29304
-#EXTINF:-1 tvg-id="" tvg-name="ES089:M+ Dazn LaLiga 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES089" group-title="ES Deportes",ES089:M+ Dazn LaLiga 1
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29303
-#EXTINF:-1 tvg-id="movistar.series.es" tvg-name="ES090:Canal Series HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES090CanalSERIESHD.png" group-title="ES Cine",ES090:Canal Series HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29302
-#EXTINF:-1 tvg-id="canal.cocina.es" tvg-name="ES091:Alquiler HD 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES091MovistarAlquiler4.png" group-title="ES Alquiler",ES091:Alquiler HD 1
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29301
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES092:M. LaLiga HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES092MOVISTARLiga.png" group-title="ES Deportes",ES092:M. LaLiga HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29300
-#EXTINF:-1 tvg-id="40tv.es" tvg-name="ES093:SOFY TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES09340" group-title="ES Ent",ES093:SOFY TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29299
-#EXTINF:-1 tvg-id="m.laliga.1.es" tvg-name="ES095:M+ LaLiga 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES095MOVISTAR LaLiga.png" group-title="ES Deportes",ES095:M+ LaLiga 1
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29297
-#EXTINF:-1 tvg-id="m.laliga.2.es" tvg-name="ES096:M+ LaLiga 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES096MOVISTAR Laliga.png" group-title="ES Deportes",ES096:M+ LaLiga 2
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29296
-#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES097:DMAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES097DMAX.png" group-title="ES Cultura",ES097:DMAX
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29295
-#EXTINF:-1 tvg-id="" tvg-name="ES098:Taquilla 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES098TAQUILLA1.png" group-title="ES Cine",ES098:Taquilla 1 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29294
-#EXTINF:-1 tvg-id="" tvg-name="ES099:Taquilla 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES099TAQUILLA10.png" group-title="ES Cine",ES099:Taquilla 2 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29293
-#EXTINF:-1 tvg-id="" tvg-name="ES100:Taquilla 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES100TAQUILLA2.png" group-title="ES Cine",ES100:Taquilla 3 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29292
-#EXTINF:-1 tvg-id="" tvg-name="ES101:Taquilla 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES101TAQUILLA3.png" group-title="ES Cine",ES101:Taquilla 4 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29291
-#EXTINF:-1 tvg-id="" tvg-name="ES102:Taquilla 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES102TAQUILLA4.png" group-title="ES Cine",ES102:Taquilla 5 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29290
-#EXTINF:-1 tvg-id="" tvg-name="ES103:Taquilla 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES103TAQUILLA5.png" group-title="ES Cine",ES103:Taquilla 6 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29289
-#EXTINF:-1 tvg-id="" tvg-name="ES104:Taquilla 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES104TAQUILLA6.png" group-title="ES Cine",ES104:Taquilla 7 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29288
-#EXTINF:-1 tvg-id="" tvg-name="ES105:Taquilla 8 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES105TAQUILLA7.png" group-title="ES Cine",ES105:Taquilla 8 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29287
-#EXTINF:-1 tvg-id="" tvg-name="ES106:Taquilla 9 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES106TAQUILLA8.png" group-title="ES Cine",ES106:Taquilla 9 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29286
-#EXTINF:-1 tvg-id="" tvg-name="ES107:Taquilla 10 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES107TAQUILLA9.png" group-title="ES Cine",ES107:Taquilla 10 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29285
-#EXTINF:-1 tvg-id="canal.cocina.es" tvg-name="ES108:Canal Cocina" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Cultura",ES108:Canal Cocina
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29284
-#EXTINF:-1 tvg-id="canal.sur.es" tvg-name="ES109:Canal Sur Andalucia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES109CANALSURA.png" group-title="ES Ent",ES109:Canal Sur Andalucia
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29283
-#EXTINF:-1 tvg-id="alquiler.1.es" tvg-name="ES110:Alquiler HD 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES110Alquiler1.png" group-title="ES Alquiler",ES110:Alquiler HD 2
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29282
-#EXTINF:-1 tvg-id="vh1.es" tvg-name="ES111:VH1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES111VH1.png" group-title="ES Ent",ES111:VH1
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29281
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES112:Alquiler HD 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES112Alquiler3.png" group-title="ES Alquiler",ES112:Alquiler HD 3
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29280
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES113:Alquiler HD 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES113Alquiler4.png" group-title="ES Alquiler",ES113:Alquiler HD 4
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29279
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES114:Alquiler HD 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES114Alquiler5.png" group-title="ES Alquiler",ES114:Alquiler HD 5
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29278
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES115:Alquiler HD 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES115Alquiler6.png" group-title="ES Alquiler",ES115:Alquiler HD 6
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29277
-#EXTINF:-1 tvg-id="" tvg-name="ES116:Alquiler HD 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES116Alquiler7.png" group-title="ES Alquiler",ES116:Alquiler HD 7
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29276
-#EXTINF:-1 tvg-id="" tvg-name="ES117:Alquiler HD 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES117Alquiler9.png" group-title="ES Alquiler",ES117:Alquiler HD 8
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29275
-#EXTINF:-1 tvg-id="andalucia.es" tvg-name="ES118:Andalucia TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES118AndaluciaTV.png" group-title="ES Musica",ES118:Andalucia TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29274
-#EXTINF:-1 tvg-id="nova.es" tvg-name="ES120:CNN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES120" group-title="ES Ent",ES120:CNN
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29272
-#EXTINF:-1 tvg-id="la.resistencia.es" tvg-name="ES121:La Resistencia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES121" group-title="ES Ent",ES121:La Resistencia
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29271
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES122:DAZN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES122MOVISTAR LaLiga.png" group-title="ES Deportes",ES122:DAZN 1
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29270
-#EXTINF:-1 tvg-id="m.laliga.3.es" tvg-name="ES123:M+ LaLiga 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES123MLaliga6.png" group-title="ES Deportes",ES123:M+ LaLiga 3
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29269
-#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES124:TRECE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES124SyfyHD.png" group-title="ES Ent",ES124:TRECE
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29268
-#EXTINF:-1 tvg-id="m.laliga.4.es" tvg-name="ES125:M+ LaLiga 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES125MLaliga7.png" group-title="ES Deportes",ES125:M+ LaLiga 4
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29267
-#EXTINF:-1 tvg-id="" tvg-name="ES126:Taquilla 11 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES126TAQUILLA1HD.png" group-title="ES Cine",ES126:Taquilla 11 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29266
-#EXTINF:-1 tvg-id="" tvg-name="ES128:Movistar Taquilla 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES128TAQUILLA6HD.png" group-title="ES Cine",ES128:Movistar Taquilla 1 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29264
-#EXTINF:-1 tvg-id="canal.extremadura.es" tvg-name="ES129:Star TVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES129" group-title="ES Ent",ES129:Star TVE
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29263
-#EXTINF:-1 tvg-id="clan.tve.es" tvg-name="ES130:Alquiler HD 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES130MovistarAlquiler1.png" group-title="ES Alquiler",ES130:Alquiler HD 9
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29262
-#EXTINF:-1 tvg-id="m.laliga.5.es" tvg-name="ES131:M+ LaLiga 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES131MLaliga8.png" group-title="ES Deportes",ES131:M+ LaLiga 5
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29261
-#EXTINF:-1 tvg-id="m.deportes.5.es" tvg-name="ES133:M+ Deportes 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES133M. DEPORTES 1.png" group-title="ES Deportes",ES133:M+ Deportes 5
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29259
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES134:#VolverEsGanar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES134M. DEPORTES 2.png" group-title="ES Deportes",ES134:#VolverEsGanar
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29258
-#EXTINF:-1 tvg-id="m.deportes.6.es" tvg-name="ES135:M+ Deportes 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES135M. DEPORTES 3.png" group-title="ES Deportes",ES135:M+ Deportes 6
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29257
-#EXTINF:-1 tvg-id="m.fest.es" tvg-name="ES136:M+ Fest" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES136MLaLiga1.png" group-title="ES Deportes",ES136:M+ Fest
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29256
-#EXTINF:-1 tvg-id="ubeat.es" tvg-name="ES137:Ubeat" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES137MLaLiga2.png" group-title="ES Deportes",ES137:Ubeat
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29255
-#EXTINF:-1 tvg-id="bein.laliga.es" tvg-name="ES138:BeiN La Liga" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES138MLaLiga3.png" group-title="ES Deportes",ES138:BeiN La Liga
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29254
-#EXTINF:-1 tvg-id="" tvg-name="ES140:FOX NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES140CanalDCINEHD.png" group-title="ES Ent",ES140:FOX NEWS
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29252
-#EXTINF:-1 tvg-id="canal.las.estrellas.es" tvg-name="ES141:Canal de las Estrellas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES141CanaldelasEstrellas.png" group-title="ES Ent",ES141:Canal de las Estrellas
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29251
-#EXTINF:-1 tvg-id="be.mad.es" tvg-name="ES142:BE MAD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES142ExtremaduraTV.png" group-title="ES Cine",ES142:BE MAD HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29250
-#EXTINF:-1 tvg-id="canal.panda.es" tvg-name="ES143:Canal Panda" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES143CANALPANDA.png" group-title="ES Ninos",ES143:Canal Panda
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29249
-#EXTINF:-1 tvg-id="horse.es" tvg-name="ES144:Horse TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES144" group-title="ES Cultura",ES144:Horse TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29248
-#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES145:Gol Mundial" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Deportes",ES145:Gol Mundial
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29247
-#EXTINF:-1 tvg-id="classica.es" tvg-name="ES147:Classica" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES147Classica.png" group-title="ES Musica",ES147:Classica
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29245
-#EXTINF:-1 tvg-id="" tvg-name="ES148:TVE LA 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES148TVELA2HD.png" group-title="ES Ent",ES148:TVE LA 2 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29244
-#EXTINF:-1 tvg-id="orbe.21.es" tvg-name="ES150:Orbe 21" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES150Orbe21.png" group-title="ES Cultura",ES150:Orbe 21
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29242
-#EXTINF:-1 tvg-id="real.madrid.es" tvg-name="ES151:Real Madrid TVHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES151RealMadridTV.png" group-title="ES Deportes",ES151:Real Madrid TVHD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29241
-#EXTINF:-1 tvg-id="" tvg-name="ES152:Esperanza TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES152EsperanzaTV.png" group-title="ES Ent",ES152:Esperanza TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29240
-#EXTINF:-1 tvg-id="barca.es" tvg-name="ES153:Barca TV SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES153BARCATV.png" group-title="ES Deportes",ES153:Barca TV SD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29239
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES154:Galicia TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES154GALICIATV.png" group-title="ES Ent",ES154:Galicia TV HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29238
-#EXTINF:-1 tvg-id="" tvg-name="ES155:ETB 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES155AztecaHonduras.png" group-title="ES Ent",ES155:ETB 1
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29237
-#EXTINF:-1 tvg-id="laliga.123.es" tvg-name="ES156:M+ Dazn LaLiga 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES156" group-title="ES Deportes",ES156:M+ Dazn LaLiga 2
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29236
-#EXTINF:-1 tvg-id="mezzo.live.es" tvg-name="ES157:ETB 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES157MEZZOLIVEFHD.png" group-title="ES Ent",ES157:ETB 2
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29235
-#EXTINF:-1 tvg-id="movistar.cine.espanol.es" tvg-name="ES158:Movistar CineDoc&Roll HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES158MoviStarCINE.png" group-title="ES Movistar",ES158:Movistar CineDoc&Roll HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29234
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES159:PPV 2 (LIVE EVENT)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES159" group-title="ES Deportes",ES159:PPV 2 (LIVE EVENT)
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29233
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES160:Telecinco FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES160Telecinco.png" group-title="ES Cine",ES160:Telecinco FHD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29232
-#EXTINF:-1 tvg-id="la.otra.es" tvg-name="ES161:La Otra" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES161" group-title="ES Ent",ES161:La Otra
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29231
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES162:Telecinco SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES162Telecinco.png" group-title="ES Cine",ES162:Telecinco SD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29230
-#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES163:Teledeporte HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES163Teledeporte.png" group-title="ES Deportes",ES163:Teledeporte HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29229
-#EXTINF:-1 tvg-id="" tvg-name="ES164:PPV 4 (LIVE EVENT)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES164" group-title="ES Deportes",ES164:PPV 4 (LIVE EVENT)
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29228
-#EXTINF:-1 tvg-id="" tvg-name="ES165:PPV 5 (LIVE EVENT)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES165" group-title="ES Deportes",ES165:PPV 5 (LIVE EVENT)
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29227
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES166:DAZN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES166DAZNMOTOGP.png" group-title="ES Deportes",ES166:DAZN 2
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29226
-#EXTINF:-1 tvg-id="sundance.es" tvg-name="ES167:Sundance TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES167SUNDANCEFHD.png" group-title="ES Ent",ES167:Sundance TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29225
-#EXTINF:-1 tvg-id="" tvg-name="ES168:Movistar Taquilla 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES168TAQUILLA2HD.png" group-title="ES Cine",ES168:Movistar Taquilla 2 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29224
-#EXTINF:-1 tvg-id="" tvg-name="ES169:Movistar Taquilla 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES169TAQUILLA3HD.png" group-title="ES Cine",ES169:Movistar Taquilla 4 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29223
-#EXTINF:-1 tvg-id="" tvg-name="ES170:Movistar Taquilla 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES170TAQUILLA5HD.png" group-title="ES Cine",ES170:Movistar Taquilla 5 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29222
-#EXTINF:-1 tvg-id="" tvg-name="ES171:Movistar Taquilla 8 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES171TAQUILLA7HD.png" group-title="ES Cine",ES171:Movistar Taquilla 8 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29221
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES172:Dazn ES ( Match time only)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES172:DaznES.png" group-title="ES Deportes",ES172:Dazn ES ( Match time only)
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29220
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES173:M+ Liga de Campeones 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES173MLigadeCampeones4.png" group-title="ES Deportes",ES173:M+ Liga de Campeones 10
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29219
-#EXTINF:-1 tvg-id="40.graus.br" tvg-name="ES174:DAZN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES174M.LIGADECAMPEONES6.png" group-title="ES Deportes",ES174:DAZN 3
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29218
-#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="ES175:Telemadrid FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES175TELEMADRIDFHD.png" group-title="ES Ent",ES175:Telemadrid FHD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29217
-#EXTINF:-1 tvg-id="telesur.es" tvg-name="ES176:Canal Sur" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES176TELESURHD.png" group-title="ES Ent",ES176:Canal Sur
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29216
-#EXTINF:-1 tvg-id="eitb.basque.es" tvg-name="ES177:ETB Basque" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES177" group-title="ES Ent",ES177:ETB Basque
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29215
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES178:TV3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES178TVGalicia.png" group-title="ES Ent",ES178:TV3 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29214
-#EXTINF:-1 tvg-id="tv3.cat.es" tvg-name="ES179:TV3 Cat" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES179TV3Cat.png" group-title="ES Ent",ES179:TV3 Cat
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29213
-#EXTINF:-1 tvg-id="" tvg-name="ES180:TVE 24H" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES180TVE24H.png" group-title="ES Ent",ES180:TVE 24H
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29212
-#EXTINF:-1 tvg-id="tve.internacional.es" tvg-name="ES181:TVE Internacional" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES181TVEInternacional.png" group-title="ES Ent",ES181:TVE Internacional
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29211
-#EXTINF:-1 tvg-id="m.liga.campeones.1.es" tvg-name="ES182:M+ Liga de Campeones 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES182M1.png" group-title="ES Deportes",ES182:M+ Liga de Campeones 1
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52425
-#EXTINF:-1 tvg-id="m.liga.campeones.2.es" tvg-name="ES183:M+ Liga de Campeones  2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES183M2.png" group-title="ES Deportes",ES183:M+ Liga de Campeones  2
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52424
-#EXTINF:-1 tvg-id="m.liga.campeones.3.es" tvg-name="ES184:M+ Liga de Campeones 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES184M3.png" group-title="ES Deportes",ES184:M+ Liga de Campeones 3
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52423
-#EXTINF:-1 tvg-id="m.liga.campeones.4.es" tvg-name="ES185:M+ Liga de Campeones 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES185M4.png" group-title="ES Deportes",ES185:M+ Liga de Campeones 4
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52422
-#EXTINF:-1 tvg-id="m.liga.campeones.5.es" tvg-name="ES186:M+ Liga de Campeones 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES186M5.png" group-title="ES Deportes",ES186:M+ Liga de Campeones 5
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52421
-#EXTINF:-1 tvg-id="m.liga.campeones.6.es" tvg-name="ES187:M+ Liga de Campeones 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES187Movistar Ligade Campeones.png" group-title="ES Deportes",ES187:M+ Liga de Campeones 6
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52420
-#EXTINF:-1 tvg-id="m.liga.campeones.7.es" tvg-name="ES188:M+ Liga de Campeones 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES188MovistarLigadeCampeones 2.png" group-title="ES Deportes",ES188:M+ Liga de Campeones 7
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52419
-#EXTINF:-1 tvg-id="m.liga.campeones.8.es" tvg-name="ES189:M+ Liga de Campeones 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES189M8.png" group-title="ES Deportes",ES189:M+ Liga de Campeones 8
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52418
-#EXTINF:-1 tvg-id="movistar.golf.es" tvg-name="ES190:Movistar GOLF FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES190MGOLFHD.png" group-title="ES Deportes",ES190:Movistar GOLF FHD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52417
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES191:Movistar Formula 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES191MFORMULA1HD.png" group-title="ES Deportes",ES191:Movistar Formula 1 FHD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52416
-#EXTINF:-1 tvg-id="euronews.es" tvg-name="ES192:Euronews" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES192" group-title="ES Ent",ES192:Euronews
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52415
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES193:Movistar Futbol FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES193M FUTBOL.png" group-title="ES Deportes",ES193:Movistar Futbol FHD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52414
-#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="ES195:Dream Works" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES195" group-title="ES Ninos",ES195:Dream Works
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52412
-#EXTINF:-1 tvg-id="la.sexta.es" tvg-name="ES197:Hispan TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES197" group-title="ES Ent",ES197:Hispan TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52410
-#EXTINF:-1 tvg-id="baby.es" tvg-name="ES200:13 TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Ent",ES200:13 TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52407
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES204:Alcarria TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES204" group-title="ES Ent",ES204:Alcarria TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52403
-#EXTINF:-1 tvg-id="canal.sur.2.es" tvg-name="ES206:Canal Sur 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES206" group-title="ES Ent",ES206:Canal Sur 2
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52401
-#EXTINF:-1 tvg-id="canal.parlamento.es" tvg-name="ES207:ESPN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES207ESPN.png" group-title="ES Deportes",ES207:ESPN
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52400
-#EXTINF:-1 tvg-id="a.punt.es" tvg-name="ES208:A Punt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES208" group-title="ES Ent",ES208:A Punt
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52399
-#EXTINF:-1 tvg-id="intereconomia.es" tvg-name="ES209:InteralmerÍa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES209" group-title="ES Ent",ES209:InteralmerÍa
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52398
-#EXTINF:-1 tvg-id="fox.es" tvg-name="ES210:Gracia TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES210" group-title="ES Ent",ES210:Gracia TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52397
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES211:8TV Madrid" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES211AXNWhiteHD.png" group-title="ES Ent",ES211:8TV Madrid
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52396
-#EXTINF:-1 tvg-id="bom.cine.es" tvg-name="ES212:BOM CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Cine",ES212:BOM CINE
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52395
-#EXTINF:-1 tvg-id="calle.13.es" tvg-name="ES213:Calle 13 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES213Calle13HD.png" group-title="ES Ent",ES213:Calle 13 FHD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52394
-#EXTINF:-1 tvg-id="movistar.accion.es" tvg-name="ES214:Movistar Accion SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES214MovistarAccion.png" group-title="ES Movistar",ES214:Movistar Accion SD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52393
-#EXTINF:-1 tvg-id="movistar.dcine.es" tvg-name="ES216:Movistar Seriesmania FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES216MovistarDCine.png" group-title="ES Movistar",ES216:Movistar Seriesmania FHD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52391
-#EXTINF:-1 tvg-id="movistar.xtra.es" tvg-name="ES217:Movistar Drama HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES217MovistarXtra.png" group-title="ES Movistar",ES217:Movistar Drama HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52390
-#EXTINF:-1 tvg-id="movistar.estrenos.es" tvg-name="ES219:Movistar Estrenos 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES219MovistarEstrenos.png" group-title="ES Movistar",ES219:Movistar Estrenos 2
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52388
-#EXTINF:-1 tvg-id="beteve.es" tvg-name="ES220:Beteve" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES220" group-title="ES Ent",ES220:Beteve
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52387
-#EXTINF:-1 tvg-id="comedy.central.es" tvg-name="ES221:M+ Laliga Smartbank TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES221" group-title="ES Ent",ES221:M+ Laliga Smartbank TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52386
-#EXTINF:-1 tvg-id="paramount.es" tvg-name="ES222:AMC Break" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES222" group-title="ES Ent",ES222:AMC Break
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52385
-#EXTINF:-1 tvg-id="nautical.es" tvg-name="ES223:Nautical" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES223" group-title="ES Cine",ES223:Nautical
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52384
-#EXTINF:-1 tvg-id="movistar.series.es" tvg-name="ES224:Movistar Series FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES224MoviestarSeries.png" group-title="ES Movistar",ES224:Movistar Series FHD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52383
-#EXTINF:-1 tvg-id="" tvg-name="ES225:Levante TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES225TelevisaHD.png" group-title="ES Ent",ES225:Levante TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52382
-#EXTINF:-1 tvg-id="energy.es" tvg-name="ES226:Energy SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES226Energy.png" group-title="ES Cultura",ES226:Energy SD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52381
-#EXTINF:-1 tvg-id="intereconomia.es" tvg-name="ES227:Intereconomia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES227" group-title="ES Ent",ES227:Intereconomia
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52380
-#EXTINF:-1 tvg-id="national.geographic.es" tvg-name="ES228:TVG Eventos 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES228" group-title="ES Cultura",ES228:TVG Eventos 2
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52379
-#EXTINF:-1 tvg-id="national.geographic.wild.es" tvg-name="ES229:TVG Eventos 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES229" group-title="ES Cultura",ES229:TVG Eventos 1
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52378
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES230:Historia SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES230Historia.png" group-title="ES Cultura",ES230:Historia SD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52377
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES231:Toros TV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES231TorosTv.png" group-title="ES Deportes",ES231:Toros TV FHD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52376
-#EXTINF:-1 tvg-id="la.7.es" tvg-name="ES233:LA 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES233" group-title="ES Ent",ES233:LA 7
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52374
-#EXTINF:-1 tvg-id="mega.es" tvg-name="ES234:M+ Cracks" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES234" group-title="ES Cultura",ES234:M+ Cracks
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52373
-#EXTINF:-1 tvg-id="mtv.espana.es" tvg-name="ES235:MTV espana" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES235MTVespana.png" group-title="ES Musica",ES235:MTV espana
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52372
-#EXTINF:-1 tvg-id="dark.es" tvg-name="ES236:Dark HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES236DarkHD.png" group-title="ES Ent",ES236:Dark HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52371
-#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES237:TVG Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES237" group-title="ES Cultura",ES237:TVG Cultura
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52370
-#EXTINF:-1 tvg-id="canal.decasa.es" tvg-name="ES238:Canal 26" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES238CanalDeCasa.png" group-title="ES Cultura",ES238:Canal 26
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52369
-#EXTINF:-1 tvg-id="movistar.el.partidazo.es" tvg-name="ES241:Movistar Partidazo HD (event only)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES241MovistarPartidazoHD(eventonly).png" group-title="ES Deportes",ES241:Movistar Partidazo HD (event only)
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52366
-#EXTINF:-1 tvg-id="movistar.f1.es" tvg-name="ES242:DAZN Formula 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES242MovistarF1.png" group-title="ES Deportes",ES242:DAZN Formula 1 HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52365
-#EXTINF:-1 tvg-id="real.madrid.es" tvg-name="ES243:Real Madrid TV SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES243RealMadridTV.png" group-title="ES Deportes",ES243:Real Madrid TV SD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52364
-#EXTINF:-1 tvg-id="negocios.es" tvg-name="ES249:Negocios TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES249" group-title="ES Ent",ES249:Negocios TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52358
-#EXTINF:-1 tvg-id="m.liga.campeones.11.es" tvg-name="ES250:M+ Liga de Campeones 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Deportes",ES250:M+ Liga de Campeones 11
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52357
-#EXTINF:-1 tvg-id="movistar.deportes.2.es" tvg-name="ES251:Multi Deporte" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES251CanalDeportes.png" group-title="ES Deportes",ES251:Multi Deporte
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52356
-#EXTINF:-1 tvg-id="es." tvg-name="ES252:PPV 3 (LIVE EVENT)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES252" group-title="ES Deportes",ES252:PPV 3 (LIVE EVENT)
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52355
-#EXTINF:-1 tvg-id="24.horas.es" tvg-name="ES253:AMC Crime" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES253" group-title="ES Ent",ES253:AMC Crime
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52354
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES255:7RM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES255AMC.png" group-title="ES Ent",ES255:7RM
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52352
-#EXTINF:-1 tvg-id="" tvg-name="ES256:Nortevision" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES256" group-title="ES Ent",ES256:Nortevision
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52351
-#EXTINF:-1 tvg-id="bein.sports.es" tvg-name="ES257:BeinSport HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES257BeinSportHD.png" group-title="ES Deportes",ES257:BeinSport HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52350
-#EXTINF:-1 tvg-id="movistar.laliga.es" tvg-name="ES258:DAZN 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES258DAZN2.png" group-title="ES Deportes",ES258:DAZN 4
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52349
-#EXTINF:-1 tvg-id="orbe.21.es" tvg-name="ES259:Canal Orbe 21" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES259" group-title="ES Ent",ES259:Canal Orbe 21
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52348
-#EXTINF:-1 tvg-id="movistar.comedia.es" tvg-name="ES260:CANAL Comedia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES260CANALComedia.png" group-title="ES Cine",ES260:CANAL Comedia
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52347
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES263:Movistar GOLF SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES263CANALGOLF.png" group-title="ES Deportes",ES263:Movistar GOLF SD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52344
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES266:CANAL Toros TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES266CANALTorosTV.png" group-title="ES Deportes",ES266:CANAL Toros TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52341
-#EXTINF:-1 tvg-id="popular.murcia.es" tvg-name="ES268:Popular TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES268" group-title="ES Ent",ES268:Popular TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52339
-#EXTINF:-1 tvg-id="caza.y.pesca.es" tvg-name="ES270:Pequeradio TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES270" group-title="ES Ninos",ES270:Pequeradio TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52337
-#EXTINF:-1 tvg-id="discovery.es" tvg-name="ES271:Nonstop People" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Cultura",ES271:Nonstop People
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52336
-#EXTINF:-1 tvg-id="" tvg-name="ES273:XTRM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES273DWHD.png" group-title="ES Ent",ES273:XTRM HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52334
-#EXTINF:-1 tvg-id="m.liga.campeones.12.es" tvg-name="ES274:M+ Liga de Campeones 12" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Deportes",ES274:M+ Liga de Campeones 12
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52333
-#EXTINF:-1 tvg-id="eurosport.2.es" tvg-name="ES275:Molahits TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES275" group-title="ES Ent",ES275:Molahits TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52332
-#EXTINF:-1 tvg-id="fdf.telecinco.es" tvg-name="ES276:Gol Mundial 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Deportes",ES276:Gol Mundial 2
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52331
-#EXTINF:-1 tvg-id="la.1.es" tvg-name="ES277:Bon Dia TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES277" group-title="ES Ent",ES277:Bon Dia TV
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52330
-
-#EXTINF:-1 tvg-id="" tvg-name="US002:ABC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US002ABCHD.png" group-title="USA ABC",US002:ABC HD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/3166
-
-#EXTINF:-1 tvg-id="" tvg-name="UK209:SuperSport LaLiga FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK209EPL6.png" group-title="UK Sports",UK209:SuperSport LaLiga FHD (Match Time)
-http://kk03es.abcnew.site:8880/12ms050077/54692224/28850
-
-#EXTINF:-1 tvg-id="ss.la.liga.za" tvg-name="ZA066:SuperSport LaLiga" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ZA/ZA066SuperSport LaLiga.png" group-title="South Africa",ZA066:SuperSport LaLiga
-http://kk03es.abcnew.site:8880/12ms050077/54692224/60573
-
-tvg-id="" tvg-logo=""
+#EXTINF:-1 tvg-id="RaiN.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/2560px-Rai_News_24_logo_%282022%29.svg.png",Rai News 24
+https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
