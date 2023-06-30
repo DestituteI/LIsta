@@ -50,14 +50,13 @@ https://directes-tv-cat.ccma.cat/live-origin/super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="ATVHD.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisió.png",ATV Andorra
 https://videos.rtva.ad/live/rtva/playlist.m3u8
 
-#EXTINF:0 tvg-id="RTP 1" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Internacional-em-direto-Online.png",RTP Internacional
+#EXTINF:0 tvg-id="RTP Internacional" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Internacional-em-direto-Online.png",RTP Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTVLCOPT:network-caching=1000
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logótipo_TVI.png",TVI
-#EXTVLCOPT:network-caching=1000
-https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
+#EXTINF:300,canalplusclair-hd.m3u8
+http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 
 #EXTINF:0,M6
 #EXTVLCOPT:network-caching=1000
@@ -66,6 +65,15 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/TF1_Séries_Films_logo_2018.svg/2560px-TF1_Séries_Films_logo_2018.svg.png",TF1 Séries Films
 #EXTVLCOPT:network-caching=1000
 http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
+
+#EXTINF:0,Gulli
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/gullihdapr23.m3u8
+
+#EXTINF:0,Chérie 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
+
+#EXTINF:14400,FranceInfo
+https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/FranceInfo.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1280px-Rai_3_-_Logo_2016.svg.png",Rai 3
 #EXTVLCOPT:network-caching=1000
@@ -83,19 +91,12 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png",El Trece Argentina
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/2560px-NHK_General_TV_logo.svg.png",NHK G
-#EXTVLCOPT:network-caching=1000
-http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1024px-NHK_Educational_TV_logo.svg.png",NHK E
-#EXTVLCOPT:network-caching=1000
-http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
 
 #EXTINF:-1 tvg-id="NHK.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK World Japan EN
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #EXTINF:36 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
-https://tbs2.mov3.co/hls/tbs.m3u8?checkedby:iptvcat.com
+https://tbs2.mov3.co/hls/tbs.m3u8
 
 
 
