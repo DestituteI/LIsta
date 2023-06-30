@@ -16,6 +16,8 @@ https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
 #EXTVLCOPT:network-caching=1000
 https://99d1e7f275ff4c95aa3f108d03329711.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_Portlandia/playlist.m3u8
 
+#EXTINF:0,Conan O'Brien TV
+https://d2re79mqzxjqde.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rh9trzj6t2509/playlist.m3u8
 
 #EXTINF:0 tvg-id="8 TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/8tv_logo_2021.svg/1200px-8tv_logo_2021.svg.png",8TV
 https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/manifest.m3u8
@@ -74,6 +76,9 @@ https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
 
 #EXTINF:14400,FranceInfo
 https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/FranceInfo.m3u8
+
+#EXTINF:14400,BFM Ille de Paris
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1280px-Rai_3_-_Logo_2016.svg.png",Rai 3
 #EXTVLCOPT:network-caching=1000
