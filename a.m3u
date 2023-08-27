@@ -9,7 +9,7 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png",TV3
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="Canalsur.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png",Canal Sur
+#EXTINF:-1 tvg-id="Canalsur.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Canal_Sur_Andalucía_SAT.png",Canal Sur
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="À Punt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27À_Punt_%282017-%29.svg/1200px-Logotip_d%27À_Punt_%282017-%29.svg.png",À Punt
@@ -34,19 +34,35 @@ https://ingest2-video.streaming-pro.com/votv/streaming_web/chunks.m3u8
 #EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://img.beteve.cat/wp-content/uploads/2021/08/logo_beteve_2021.png",betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 
-#EXTINF:0 tvg-id="Canal 33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/150px-33_%28CCMA%29.svg.png",SX3/El 33
+#EXTINF:0 tvg-id="Super3/33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/150px-33_%28CCMA%29.svg.png",SX3/El 33
 https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="Portlandia.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Portlandia_logo.png/330px-Portlandia_logo.png",Portlandia
+#EXTINF:0 tvg-id="IB3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/150px-33_%28CCMA%29.svg.png",IB3
+https://ythls.onrender.com/channel/UCff_CBVJDTHP4wOHPjP5BMg.m3u8
+
+#EXTINF:0 tvg-id="TVGA Europa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Televisión_de_Galicia_Logo.svg",TV Galicia
+#EXTVLCOPT:network-caching=1000
+https://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 tvg-id="TVG 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/TvG2.jpg",TVG 2
+#EXTVLCOPT:network-caching=1000
+https://events2-crtvg.flumotion.com/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="IFC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Portlandia_logo.png/330px-Portlandia_logo.png",IFC
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Portlandia.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Portlandia_logo.png/330px-Portlandia_logo.png",Portlandia (KO)
 #EXTVLCOPT:network-caching=1000
 https://99d1e7f275ff4c95aa3f108d03329711.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_Portlandia/playlist.m3u8
 
 #EXTINF:0,Conan O'Brien TV
 https://d2re79mqzxjqde.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rh9trzj6t2509/playlist.m3u8
 
-
-
-
+#EXTINF:0,Fashion TV
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 
 
@@ -56,9 +72,15 @@ https://ztnr.rtve.es/ztnr/1712295.m3u8
 #EXTINF:0 tvg-id="E3.TV" tvg-logo="https://img.ccma.cat/multimedia/png/9/9/1619526053499.png",Esport 3
 https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 
-#EXTINF:0 tvg-id="BarcaTV.TV" tvg-logo="https://pbs.twimg.com/profile_images/1583028176413986816/Rwm5YcZA_400x400.jpg",Barça TV
-#EXTVLCOPT:network-caching=1000
-http://93.152.174.144:4000/play/barcatv/index.m3u8
+#EXTINF:0 tvg-id="E3.TV" tvg-logo="https://img.ccma.cat/multimedia/png/9/9/1619526053499.png",Deporte Total
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
+
+
+
+
+
+
+
 
 
 #EXTINF:0 tvg-id="Clan.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",Clan
@@ -66,6 +88,9 @@ https://ztnr.rtve.es/ztnr/5466990.m3u8
 
 #EXTINF:0 tvg-id="C33.TV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/SX3_positiu.png",SX3 24H
 https://directes-tv-cat.ccma.cat/live-origin/super3-hls/master.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="ATVHD.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisió.png",ATV Andorra
@@ -79,7 +104,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:300,canalplusclair-hd.m3u8
 http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 
-#EXTINF:0,M6
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/2560px-Logo_M6_%282020%2C_fond_clair%29.svg.png",M6
 #EXTVLCOPT:network-caching=1000
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 
@@ -87,10 +112,7 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 #EXTVLCOPT:network-caching=1000
 http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
 
-#EXTINF:0,Gulli
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/gullihdapr23.m3u8
-
-#EXTINF:0,Chérie 25
+#EXTINF:0 tvg-logo="https://www.reservoir-prod.fr/upload/media/logo-cherie-25-c-est-mon-choix-570x570-628cf6e6ed10b.png",Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
 
 #EXTINF:14400,FranceInfo
@@ -98,6 +120,8 @@ https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/FranceInfo.m
 
 #EXTINF:14400,BFM Ille de Paris
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8
+
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1280px-Rai_3_-_Logo_2016.svg.png",Rai 3
 #EXTVLCOPT:network-caching=1000
@@ -108,6 +132,8 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la7fb/picture?width=200&height=200",La7d Italia
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+
+
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",El Nueve Argentina
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
@@ -122,27 +148,50 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:36 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
 https://tbs2.mov3.co/hls/tbs.m3u8
 
-
-
-#EXTINF:0 tvg-id="ETB1.TV" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/01/etb1.png",ETB 1
+#EXTINF:0 tvg-id="CGTN Español.TV" tvg-logo="https://pbs.twimg.com/profile_images/1583028176413986816/Rwm5YcZA_400x400.jpg",CGTN Español
 #EXTVLCOPT:network-caching=1000
-https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:0 tvg-id="ETB2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png",ETB 2
+
+
+#EXTINF:0 tvg-id="MTV00S.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/225px-MTV_00s_remaster.png",MTV 00s
 #EXTVLCOPT:network-caching=1000
-https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+http://195.24.89.82/VH1_SD/index.m3u8
+
+#EXTINF:0 tvg-id="Molahits.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png",Molahits TV
+#EXTVLCOPT:network-caching=1000
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:0 tvg-id="Dee Jay.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png",Dee Jay TV
+#EXTVLCOPT:network-caching=1000
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+#EXTINF:0 tvg-id="Deluxe Music.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png",Deluxe Music
+#EXTVLCOPT:network-caching=1000
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:0 tvg-id="Deluxe Dance.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png",Deluxe Dance
+#EXTVLCOPT:network-caching=1000
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
+#EXTINF:0 tvg-id="Deluxe Flashback.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png",Deluxe Flashback
+#EXTVLCOPT:network-caching=1000
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+
+#EXTINF:0 tvg-id="Deluxe Rap.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png",Deluxe Rap
+#EXTVLCOPT:network-caching=1000
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
+#EXTINF:0 tvg-id="Deluxe Lounge.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png",Deluxe Lounge
+#EXTVLCOPT:network-caching=1000
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8
+
+
+
 
 #EXTINF:0 tvg-id="ETB Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/1280px-ETB_Basque_2022_logo.svg.png",ETB Basque
 #EXTVLCOPT:network-caching=1000
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
-
-#EXTINF:0 tvg-id="TVGA Europa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Televisión_de_Galicia_Logo.svg",TV Galicia
-#EXTVLCOPT:network-caching=1000
-https://europa-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:0 tvg-id="TVG 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/TvG2.jpg",TVG 2
-#EXTVLCOPT:network-caching=1000
-https://events2-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:0 tvg-id="TV3CAT.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/2560px-TV3CAT.svg.png",TV3CAT
 #EXTVLCOPT:network-caching=1000
@@ -176,6 +225,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:O,France 24 Español
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+
 #EXTINF:0 tvg-id="BBC World News Europe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/2560px-BBC_World_News_2022.svg.png",BBC World News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:network-caching=1000
@@ -183,7 +235,7 @@ http://ott-cdn.ucom.am/s24/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN International Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/900px-CNN_International_logo.svg.png",CNN
 #EXTVLCOPT:network-caching=1000
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RaiN.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/2560px-Rai_News_24_logo_%282022%29.svg.png",Rai News 24
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
