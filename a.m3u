@@ -1,4 +1,4 @@
-##EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
@@ -16,7 +16,7 @@ https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 
-#EXTINF:0 tvg-id="ETB1.TV" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/01/etb1.png",ETB 1
+#EXTINF:0 tvg-id="ETB1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/1280px-ETB1_2022_logo.svg.png",ETB 1
 #EXTVLCOPT:network-caching=1000
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 
@@ -27,20 +27,20 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 #EXTINF:0 tvg-id="8 TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/8tv_logo_2021.svg/1200px-8tv_logo_2021.svg.png",8TV
 https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 
-#EXTINF:-1 tvg-id="VOTV" tvg-logo="https://seu-e.cat/logotips/9826145015.PNG",VOTV
+#EXTINF:-1 tvg-id="VOTV.TV" tvg-logo="https://seu-e.cat/logotips/9826145015.PNG",VOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ingest2-video.streaming-pro.com/votv/streaming_web/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://img.beteve.cat/wp-content/uploads/2021/08/logo_beteve_2021.png",betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 
-#EXTINF:0 tvg-id="Super3/33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/150px-33_%28CCMA%29.svg.png",SX3/El 33
+#EXTINF:0 tvg-id="Super3/33.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/150px-33_%28CCMA%29.svg.png",SX3/El 33
 https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
 
-#EXTINF:0 tvg-id="IB3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/150px-33_%28CCMA%29.svg.png",IB3
+#EXTINF:0 tvg-id="IB3.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IB3.svg/1200px-IB3.svg.png",IB3
 https://ythls.onrender.com/channel/UCff_CBVJDTHP4wOHPjP5BMg.m3u8
 
-#EXTINF:0 tvg-id="TVGA Europa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Televisión_de_Galicia_Logo.svg",TV Galicia
+#EXTINF:0 tvg-id="TVGA Europa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1200px-Television_de_Galicia.svg.png",TV Galicia
 #EXTVLCOPT:network-caching=1000
 https://europa-crtvg.flumotion.com/playlist.m3u8
 
