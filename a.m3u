@@ -22,11 +22,11 @@ http://364265877834321429.of230922.xyz:80/play/Edu925D/646280002M121/321429.ts
 #EXTVLCOPT:network-caching=1000
 http://364265877834321288.of230922.xyz:80/play/Edu925D/646280002M121/321288.ts
 
-#EXTINF:0 tvg-id="Movistar Plus+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/2560px-0_por_Movistar_Plus%2B_2022_logo.svg.png",#0 por Movistar+
+#EXTINF:0 tvg-id="Movistar Plus+" tvg-https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/225px-Movistar_Plus%2B_2022_logo.svg.png",Movistar Plus+
 #EXTVLCOPT:network-caching=1000
 http://364265877834558669.of230922.xyz:80/play/Edu925D/646280002M121/558669.ts
 
-#EXTINF:0 tvg-id="M+ Vamos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png",#Vamos por Movistar+
+#EXTINF:0 tvg-id="M+ Vamos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/375px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png",M+ Vamos
 #EXTVLCOPT:network-caching=1000
 http://364265877834550863.of230922.xyz:80/play/Edu925D/646280002M121/550863.ts
 
@@ -63,7 +63,7 @@ http://kk03es.abcnew.site:8880/12ms050077/54692224/29315
 
 
 #EXTINF:0,Movistar+ Cine Español
-#EXTVLCOPT:network-caching=1000
+#E XTVLCOPT:network-caching=1000
 http://kk03es.abcnew.site:8880/12ms050077/54692224/29311
 
 
