@@ -33,48 +33,81 @@ http://364265877834550863.of230922.xyz:80/play/Edu925D/646280002M121/550863.ts
 #EXTINF:-1 tvg-id="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png",TV3
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://es.m.wikipedia.org/wiki/Canal_Sur_Andalucía#/media/Archivo:Canal_Sur_Andalucía_SAT.png",Canal Sur Andalucía
+#EXTINF:-1 tvg-id="Canal Sur" tvg-logo="https://es.m.wikipedia.org/wiki/Canal_Sur_Andalucía#/media/Archivo:Canal_Sur_Andalucía_SAT.png",Canal Sur 1
 #EXTVLCOPT:network-caching=1000
-https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+http://364265877834272448.of230922.xyz:80/play/Edu925D/646280002M121/272448.ts
 
-#EXTINF:0 tvg-id="M+ Estrenos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png",Estrenos por Movistar+
+#EXTINF:-1 tvg-id="VOTV.TV" tvg-logo="https://seu-e.cat/logotips/9826145015.PNG",VOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://ingest2-video.streaming-pro.com/votv/streaming_web/chunks.m3u8
+
+#EXTINF:0 tvg-id="M+ Cine" tvg-logo="https://es.wikipedia.org/wiki/Cine_por_M%2B#/media/Archivo:Cine_por_Movistar_Plus+_2023_Logo.svg.png",M+ Cine
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2588
+http://364265877834561133.of230922.xyz:80/play/Edu925D/646280002M121/561133.ts
 
-#EXTINF:0 tvg-id="MovistarEstrenos2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/500px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png",Estrenos 2 por Movistar+
+#EXTINF:0 tvg-id="M+ Series" tvg-logo="https://es.wikipedia.org/wiki/Series_por_M%2B#/media/Archivo:Series_por_Movistar_Plus+_2023_Logo.svg",M+ Series
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52388
+http://364265877834321348.of230922.xyz:80/play/Edu925D/646280002M121/321348.ts
 
-#EXTINF:0,Movistar+ Acción
+#EXTINF:0 tvg-id="M+ Originales" tvg-logo="https://es.wikipedia.org/wiki/Originales_por_M%2B#/media/Archivo:Originales_por_Movistar_Plus+_2023_Logo.svg",M+ Originales
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/2591
+http://364265877834321069.of230922.xyz:80/play/Edu925D/646280002M121/321069.ts
 
-#EXTINF:0,Movistar+ Comedia
+#EXTINF:0 tvg-id="M+ San Sebastián" tvg-logo="https://i.ibb.co/DtTyBqG/mpopup.png",M+ Pop Up
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/52347
+http://364265877834632904.of230922.xyz:80/play/Edu925D/646280002M121/632904.ts
 
-#EXTINF:0,Movistar+ Drama
+#EXTINF:0 tvg-id="M+ Documentales" tvg-logo="https://es.wikipedia.org/wiki/Documentales_por_M%2B#/media/Archivo:Documentales_por_Movistar_Plus+_2023_Logo.svg",M+ Documentales
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29304
+http://364265877834552955.of230922.xyz:80/play/Edu925D/646280002M121/552955.ts
 
-#EXTINF:0,Movistar+ Cine Español
+#EXTINF:0 tvg-id="M+ Música" tvg-logo="https://es.wikipedia.org/wiki/Música_por_M%2B#/media/Archivo:Música_por_Movistar_Plus+_2023_Logo.svg",M+ Música
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29315
+http://364265877834561136.of230922.xyz:80/play/Edu925D/646280002M121/561136.ts
 
-
-#EXTINF:0,Movistar+ Cine Español
-#E XTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29311
-
-
-#EXTINF:0,Movistar+ Cine Español
+#EXTINF:0 tvg-id="La Resistencia" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/RESIST.png",La Resistencia
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29310
+http://364265877834321286.of230922.xyz:80/play/Edu925D/646280002M121/321286.ts
 
-
-#EXTINF:0,Movistar+ Cine Español
+#EXTINF:0 tvg-id="M+ Clásicos" tvg-logo="https://es.wikipedia.org/wiki/Clásicos_por_M%2B#/media/Archivo:Clásicos_por_Movistar_Plus+_2023_Logo.svg",M+ Clásicos
 #EXTVLCOPT:network-caching=1000
-http://kk03es.abcnew.site:8880/12ms050077/54692224/29309
+http://364265877834321315.of230922.xyz:80/play/Edu925D/646280002M121/321314.ts
+
+#EXTINF:0 tvg-id="M+ Acción" tvg-logo="https://es.wikipedia.org/wiki/Acción_por_M%2B#/media/Archivo:Acción_por_Movistar_Plus+_2023_Logo.svg",M+ Acción
+#EXTVLCOPT:network-caching=1000
+http://364265877834321306.of230922.xyz:80/play/Edu925D/646280002M121/321306.ts
+
+#EXTINF:0 tvg-id="M+ Comedia" tvg-logo="https://es.wikipedia.org/wiki/Comedia_por_M%2B#/media/Archivo:Comedia_por_Movistar_Plus+_2023_Logo.svg",M+ Comedia
+#EXTVLCOPT:network-caching=1000
+http://364265877834321318.of230922.xyz:80/play/Edu925D/646280002M121/321318.ts
+
+#EXTINF:0 tvg-id="M+ Drama" tvg-logo="https://es.wikipedia.org/wiki/Comedia_por_M%2B#/media/Archivo:Drama_por_Movistar_Plus+_2023_Logo.svg",M+ Drama
+#EXTVLCOPT:network-caching=1000
+http://364265877834321332.of230922.xyz:80/play/Edu925D/646280002M121/321333.ts
+
+#EXTINF:0 tvg-id="M+ Suspense" tvg-logo="https://es.wikipedia.org/wiki/Comedia_por_M%2B#/media/Archivo:Suspense_por_Movistar_Plus+_2023_Logo.svg",M+ Suspense
+#EXTVLCOPT:network-caching=1000
+http://364265877834552965.of230922.xyz:80/play/Edu925D/646280002M121/552965.ts
+
+#EXTINF:0 tvg-id="M+ Indie" tvg-logo="https://es.wikipedia.org/wiki/Comedia_por_M%2B#/media/Archivo:Indie_por_Movistar_Plus+_2023_Logo.svg",M+ Indie
+#EXTVLCOPT:network-caching=1000
+http://364265877834552958.of230922.xyz:80/play/Edu925D/646280002M121/552958.ts
+
+#EXTINF:0 tvg-id="M+ Cine Español" tvg-logo="https://es.wikipedia.org/wiki/Cine_por_M%2B#/media/Archivo:Cine_Español_por_Movistar_Plus+_2023_Logo.svg.png",M+ Cine Español
+#EXTVLCOPT:network-caching=1000
+http://364265877834559513.of230922.xyz:80/play/Edu925D/646280002M121/620944.ts
+
+#EXTINF:0 tvg-id="TCM" tvg-logo="https://es.wikipedia.org/wiki/TCM_(España)#/media/Archivo:TCM_logo.svg",TCM
+#EXTVLCOPT:network-caching=1000
+http://364265877834321426.of230922.xyz:80/play/Edu925D/646280002M121/321426.ts
+
+#EXTINF:0 tvg-id="Hollywood" tvg-logo="https://es.wikipedia.org/wiki/Canal_Hollywood#/media/Archivo:HWD_logo.svg",Hollywood
+#EXTVLCOPT:network-caching=1000
+http://364265877834321266.of230922.xyz:80/play/Edu925D/646280002M121/321266.ts
+
+#EXTINF:0,DAZN LaLiga HD
+#EXTVLCOPT:network-caching=1000
+http://364265877834320781.of230922.xyz:80/play/Edu925D/646280002M121/320781.ts
 
 
 
