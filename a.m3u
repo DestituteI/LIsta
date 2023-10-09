@@ -53,7 +53,7 @@ http://364265877834321348.of230922.xyz:80/play/Edu925D/646280002M121/321348.ts
 #EXTVLCOPT:network-caching=1000
 http://364265877834321069.of230922.xyz:80/play/Edu925D/646280002M121/321069.ts
 
-#EXTINF:0 tvg-id="M+ San Sebastián" tvg-logo="https://i.ibb.co/DtTyBqG/mpopup.png",M+ Pop Up
+#EXTINF:0 tvg-id="M+ San Sebastián" tvg-logo="https://i.ibb.co/d70GNff/mpopup.png",M+ Pop Up
 #EXTVLCOPT:network-caching=1000
 http://364265877834632904.of230922.xyz:80/play/Edu925D/646280002M121/632904.ts
 
@@ -81,15 +81,15 @@ http://364265877834321306.of230922.xyz:80/play/Edu925D/646280002M121/321306.ts
 #EXTVLCOPT:network-caching=1000
 http://364265877834321318.of230922.xyz:80/play/Edu925D/646280002M121/321318.ts
 
-#EXTINF:0 tvg-id="M+ Drama" tvg-logo="https://es.wikipedia.org/wiki/Comedia_por_M%2B#/media/Archivo:Drama_por_Movistar_Plus+_2023_Logo.svg",M+ Drama
+#EXTINF:0 tvg-id="M+ Drama" tvg-logo="https://es.wikipedia.org/wiki/Drama_por_M%2B#/media/Archivo:Drama_por_Movistar_Plus+_2023_Logo.svg",M+ Drama
 #EXTVLCOPT:network-caching=1000
 http://364265877834321332.of230922.xyz:80/play/Edu925D/646280002M121/321333.ts
 
-#EXTINF:0 tvg-id="M+ Suspense" tvg-logo="https://es.wikipedia.org/wiki/Comedia_por_M%2B#/media/Archivo:Suspense_por_Movistar_Plus+_2023_Logo.svg",M+ Suspense
+#EXTINF:0 tvg-id="M+ Suspense" tvg-logo="https://es.wikipedia.org/wiki/Suspense_por_M%2B#/media/Archivo:Suspense_por_Movistar_Plus+_2023_Logo.svg",M+ Suspense
 #EXTVLCOPT:network-caching=1000
 http://364265877834552965.of230922.xyz:80/play/Edu925D/646280002M121/552965.ts
 
-#EXTINF:0 tvg-id="M+ Indie" tvg-logo="https://es.wikipedia.org/wiki/Comedia_por_M%2B#/media/Archivo:Indie_por_Movistar_Plus+_2023_Logo.svg",M+ Indie
+#EXTINF:0 tvg-id="M+ Indie" tvg-logo="https://es.wikipedia.org/wiki/Indie_por_M%2B#/media/Archivo:Indie_por_Movistar_Plus+_2023_Logo.svg",M+ Indie
 #EXTVLCOPT:network-caching=1000
 http://364265877834552958.of230922.xyz:80/play/Edu925D/646280002M121/552958.ts
 
@@ -108,7 +108,6 @@ http://364265877834321266.of230922.xyz:80/play/Edu925D/646280002M121/321266.ts
 #EXTINF:0,DAZN LaLiga HD
 #EXTVLCOPT:network-caching=1000
 http://364265877834320781.of230922.xyz:80/play/Edu925D/646280002M121/320781.ts
-
 
 
 tvg-id="" tvg-logo=""
