@@ -41,27 +41,27 @@ http://364265877834272448.of230922.xyz:80/play/Edu925D/646280002M121/272448.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ingest2-video.streaming-pro.com/votv/streaming_web/chunks.m3u8
 
-#EXTINF:0 tvg-id="M+ Cine" tvg-logo="https://es.wikipedia.org/wiki/Cine_por_M%2B#/media/Archivo:Cine_por_Movistar_Plus+_2023_Logo.svg.png",M+ Cine
+#EXTINF:0 tvg-id="M+ Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/375px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png",M+ Cine
 #EXTVLCOPT:network-caching=1000
 http://364265877834561133.of230922.xyz:80/play/Edu925D/646280002M121/561133.ts
 
-#EXTINF:0 tvg-id="M+ Series" tvg-logo="https://es.wikipedia.org/wiki/Series_por_M%2B#/media/Archivo:Series_por_Movistar_Plus+_2023_Logo.svg",M+ Series
+#EXTINF:0 tvg-id="M+ Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/375px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png",M+ Series
 #EXTVLCOPT:network-caching=1000
 http://364265877834321348.of230922.xyz:80/play/Edu925D/646280002M121/321348.ts
 
-#EXTINF:0 tvg-id="M+ Originales" tvg-logo="https://es.wikipedia.org/wiki/Originales_por_M%2B#/media/Archivo:Originales_por_Movistar_Plus+_2023_Logo.svg",M+ Originales
+#EXTINF:0 tvg-id="M+ Originales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg/375px-Originales_por_Movistar_Plus%2B_2023_Logo.svg.png",M+ Originales
 #EXTVLCOPT:network-caching=1000
 http://364265877834321069.of230922.xyz:80/play/Edu925D/646280002M121/321069.ts
 
-#EXTINF:0 tvg-id="M+ San Sebastián" tvg-logo="https://i.ibb.co/d70GNff/mpopup.png",M+ Pop Up
+#EXTINF:0 tvg-id="M+ San Sebastián" tvg-logo="https://i.ibb.co/JxbksyD/mpopup2.png",M+ Pop Up
 #EXTVLCOPT:network-caching=1000
 http://364265877834632904.of230922.xyz:80/play/Edu925D/646280002M121/632904.ts
 
-#EXTINF:0 tvg-id="M+ Documentales" tvg-logo="https://es.wikipedia.org/wiki/Documentales_por_M%2B#/media/Archivo:Documentales_por_Movistar_Plus+_2023_Logo.svg",M+ Documentales
+#EXTINF:0 tvg-id="M+ Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg/375px-Documentales_por_Movistar_Plus%2B_2023_Logo.svg.png",M+ Documentales
 #EXTVLCOPT:network-caching=1000
 http://364265877834552955.of230922.xyz:80/play/Edu925D/646280002M121/552955.ts
 
-#EXTINF:0 tvg-id="M+ Música" tvg-logo="https://es.wikipedia.org/wiki/Música_por_M%2B#/media/Archivo:Música_por_Movistar_Plus+_2023_Logo.svg",M+ Música
+#EXTINF:0 tvg-id="M+ Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Música_por_Movistar_Plus%2B_2023_Logo.svg/375px-Música_por_Movistar_Plus%2B_2023_Logo.svg.png",M+ Música
 #EXTVLCOPT:network-caching=1000
 http://364265877834561136.of230922.xyz:80/play/Edu925D/646280002M121/561136.ts
 
