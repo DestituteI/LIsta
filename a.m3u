@@ -22,7 +22,7 @@ http://364265877834321429.of230922.xyz:80/play/Edu925D/646280002M121/321429.ts
 #EXTVLCOPT:network-caching=1000
 http://364265877834321288.of230922.xyz:80/play/Edu925D/646280002M121/321288.ts
 
-#EXTINF:0 tvg-id="Movistar Plus+" tvg-https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/225px-Movistar_Plus%2B_2022_logo.svg.png",Movistar Plus+
+#EXTINF:0 tvg-id="Movistar Plus+" tvg-logo="https://es.wikipedia.org/wiki/Movistar_Plus%2B_(canal_de_televisión)#/media/Archivo:Movistar_Plus+_2022_logo.svg",Movistar Plus+
 #EXTVLCOPT:network-caching=1000
 http://364265877834558669.of230922.xyz:80/play/Edu925D/646280002M121/558669.ts
 
@@ -33,7 +33,7 @@ http://364265877834550863.of230922.xyz:80/play/Edu925D/646280002M121/550863.ts
 #EXTINF:-1 tvg-id="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png",TV3
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="Canal Sur" tvg-logo="https://es.m.wikipedia.org/wiki/Canal_Sur_Andalucía#/media/Archivo:Canal_Sur_Andalucía_SAT.png",Canal Sur 1
+#EXTINF:-1 tvg-id="Canal Sur" tvg-logo="https://es.wikipedia.org/wiki/Canal_Sur_Televisión#/media/Archivo:Canal_Sur_Televisión_2011-2017_logo.svg",Canal Sur 1
 #EXTVLCOPT:network-caching=1000
 http://364265877834272448.of230922.xyz:80/play/Edu925D/646280002M121/272448.ts
 
@@ -108,6 +108,3 @@ http://364265877834321266.of230922.xyz:80/play/Edu925D/646280002M121/321266.ts
 #EXTINF:0,DAZN LaLiga HD
 #EXTVLCOPT:network-caching=1000
 http://364265877834320781.of230922.xyz:80/play/Edu925D/646280002M121/320781.ts
-
-
-tvg-id="" tvg-logo=""
