@@ -105,6 +105,14 @@ http://364265877834321426.of230922.xyz:80/play/Edu925D/646280002M121/321426.ts
 #EXTVLCOPT:network-caching=1000
 http://364265877834321266.of230922.xyz:80/play/Edu925D/646280002M121/321266.ts
 
+#EXTINF:0 tvg-id="AXN Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/225px-AXN_Movies_logo.jpg",AXN Movies
+#EXTVLCOPT:network-caching=1000
+http://364265877834538659.of230922.xyz:80/play/Edu925D/646280002M121/538659.ts
+
+#EXTINF:0 tvg-id="XTRM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XTRM_España.png/480px-XTRM_España.png",XTRM
+#EXTVLCOPT:network-caching=1000
+http://364265877834321477.of230922.xyz:80/play/Edu925D/646280002M121/321477.ts
+
 #EXTINF:0 tvg-id="DAZN LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/263px-DAZN_LaLiga_2023_Logo.svg.png",DAZN LaLiga HD
 #EXTVLCOPT:network-caching=1000
 http://364265877834320781.of230922.xyz:80/play/Edu925D/646280002M121/320781.ts
