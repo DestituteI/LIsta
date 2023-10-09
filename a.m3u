@@ -69,42 +69,42 @@ http://364265877834561136.of230922.xyz:80/play/Edu925D/646280002M121/561136.ts
 #EXTVLCOPT:network-caching=1000
 http://364265877834321286.of230922.xyz:80/play/Edu925D/646280002M121/321286.ts
 
-#EXTINF:0 tvg-id="M+ Clásicos" tvg-logo="https://es.wikipedia.org/wiki/Clásicos_por_M%2B#/media/Archivo:Clásicos_por_Movistar_Plus+_2023_Logo.svg",M+ Clásicos
+#EXTINF:0 tvg-id="M+ Clásicos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Clásicos_por_Movistar_Plus%2B_2023_Logo.svg/375px-Clásicos_por_Movistar_Plus%2B_2023_Logo.svg.png",M+ Clásicos
 #EXTVLCOPT:network-caching=1000
 http://364265877834321315.of230922.xyz:80/play/Edu925D/646280002M121/321314.ts
 
-#EXTINF:0 tvg-id="M+ Acción" tvg-logo="https://es.wikipedia.org/wiki/Acción_por_M%2B#/media/Archivo:Acción_por_Movistar_Plus+_2023_Logo.svg",M+ Acción
+#EXTINF:0 tvg-id="M+ Acción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acción_por_Movistar_Plus%2B_2023_Logo.svg/375px-Acción_por_Movistar_Plus%2B_2023_Logo.svg.png",M+ Acción
 #EXTVLCOPT:network-caching=1000
 http://364265877834321306.of230922.xyz:80/play/Edu925D/646280002M121/321306.ts
 
-#EXTINF:0 tvg-id="M+ Comedia" tvg-logo="https://es.wikipedia.org/wiki/Comedia_por_M%2B#/media/Archivo:Comedia_por_Movistar_Plus+_2023_Logo.svg",M+ Comedia
+#EXTINF:0 tvg-id="M+ Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/375px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png",M+ Comedia
 #EXTVLCOPT:network-caching=1000
 http://364265877834321318.of230922.xyz:80/play/Edu925D/646280002M121/321318.ts
 
-#EXTINF:0 tvg-id="M+ Drama" tvg-logo="https://es.wikipedia.org/wiki/Drama_por_M%2B#/media/Archivo:Drama_por_Movistar_Plus+_2023_Logo.svg",M+ Drama
+#EXTINF:0 tvg-id="M+ Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Drama_por_Movistar_Plus%2B_2023_Logo.svg/375px-Drama_por_Movistar_Plus%2B_2023_Logo.svg.png",M+ Drama
 #EXTVLCOPT:network-caching=1000
 http://364265877834321332.of230922.xyz:80/play/Edu925D/646280002M121/321333.ts
 
-#EXTINF:0 tvg-id="M+ Suspense" tvg-logo="https://es.wikipedia.org/wiki/Suspense_por_M%2B#/media/Archivo:Suspense_por_Movistar_Plus+_2023_Logo.svg",M+ Suspense
+#EXTINF:0 tvg-id="M+ Suspense" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg/375px-Suspense_por_Movistar_Plus%2B_2023_Logo.svg.png",M+ Suspense
 #EXTVLCOPT:network-caching=1000
 http://364265877834552965.of230922.xyz:80/play/Edu925D/646280002M121/552965.ts
 
-#EXTINF:0 tvg-id="M+ Indie" tvg-logo="https://es.wikipedia.org/wiki/Indie_por_M%2B#/media/Archivo:Indie_por_Movistar_Plus+_2023_Logo.svg",M+ Indie
+#EXTINF:0 tvg-id="M+ Indie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Indie_por_Movistar_Plus%2B_2023_Logo.svg/375px-Indie_por_Movistar_Plus%2B_2023_Logo.svg.png",M+ Indie
 #EXTVLCOPT:network-caching=1000
 http://364265877834552958.of230922.xyz:80/play/Edu925D/646280002M121/552958.ts
 
-#EXTINF:0 tvg-id="M+ Cine Español" tvg-logo="https://es.wikipedia.org/wiki/Cine_por_M%2B#/media/Archivo:Cine_Español_por_Movistar_Plus+_2023_Logo.svg.png",M+ Cine Español
+#EXTINF:0 tvg-id="M+ Cine Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cine_Español_por_Movistar_Plus%2B_2023_Logo.svg/375px-Cine_Español_por_Movistar_Plus%2B_2023_Logo.svg.png",M+ Cine Español
 #EXTVLCOPT:network-caching=1000
 http://364265877834559513.of230922.xyz:80/play/Edu925D/646280002M121/620944.ts
 
-#EXTINF:0 tvg-id="TCM" tvg-logo="https://es.wikipedia.org/wiki/TCM_(España)#/media/Archivo:TCM_logo.svg",TCM
+#EXTINF:0 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/300px-TCM_logo.svg.png",TCM
 #EXTVLCOPT:network-caching=1000
 http://364265877834321426.of230922.xyz:80/play/Edu925D/646280002M121/321426.ts
 
-#EXTINF:0 tvg-id="Hollywood" tvg-logo="https://es.wikipedia.org/wiki/Canal_Hollywood#/media/Archivo:HWD_logo.svg",Hollywood
+#EXTINF:0 tvg-id="Canal Hollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/300px-HWD_logo.svg.png",Hollywood
 #EXTVLCOPT:network-caching=1000
 http://364265877834321266.of230922.xyz:80/play/Edu925D/646280002M121/321266.ts
 
-#EXTINF:0,DAZN LaLiga HD
+#EXTINF:0 tvg-id="DAZN LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/263px-DAZN_LaLiga_2023_Logo.svg.png",DAZN LaLiga HD
 #EXTVLCOPT:network-caching=1000
 http://364265877834320781.of230922.xyz:80/play/Edu925D/646280002M121/320781.ts
