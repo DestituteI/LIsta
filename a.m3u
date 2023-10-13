@@ -113,6 +113,42 @@ http://364265877834538659.of230922.xyz:80/play/Edu925D/646280002M121/538659.ts
 #EXTVLCOPT:network-caching=1000
 http://364265877834321477.of230922.xyz:80/play/Edu925D/646280002M121/321477.ts
 
+#EXTINF:0 tvg-id="Sundance TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/480px-SundanceTV_2014.svg.png",Sundance
+#EXTVLCOPT:network-caching=1000
+http://364265877834321419.of230922.xyz:80/play/Edu925D/646280002M121/321419.ts
+
+#EXTINF:0 tvg-id="DARK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dark_Teuve_2.png/480px-Dark_Teuve_2.png",DARK
+#EXTVLCOPT:network-caching=1000
+http://364265877834541471.of230922.xyz:80/play/Edu925D/646280002M121/541471.ts
+
+#EXTINF:0 tvg-id="Somos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Somos.png/480px-Somos.png",Somos
+#EXTVLCOPT:network-caching=1000
+http://364265877834321413.of230922.xyz:80/play/Edu925D/646280002M121/321413.ts
+
+#EXTINF:0 tvg-id="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/188px-Paramount_Network.svg.png",Paramount Network
+#EXTVLCOPT:network-caching=1000
+http://364265877834630823.of230922.xyz:80/play/Edu925D/646280002M121/630823.ts
+
+#EXTINF:0 tvg-id="Be Mad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/188px-Be_Mad_TV.svg.png",Paramount Network
+#EXTVLCOPT:network-caching=1000
+http://364265877834321126.of230922.xyz:80/play/Edu925D/646280002M121/321126.ts
+
+#EXTINF:0 tvg-id="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/225px-FOX_wordmark-red_2.svg.png",FOX
+#EXTVLCOPT:network-caching=1000
+http://364265877834321252.of230922.xyz:80/play/Edu925D/646280002M121/321252.ts
+
+#EXTINF:0 tvg-id="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/225px-AXN_logo_%282015%29.svg.png",AXN
+#EXTVLCOPT:network-caching=1000
+http://364265877834321119.of230922.xyz:80/play/Edu925D/646280002M121/321119.ts
+
+#EXTINF:0 tvg-id="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WarnerTV_France_2021.svg/150px-WarnerTV_France_2021.svg.png",Warner TV
+#EXTVLCOPT:network-caching=1000
+http://364265877834459778.of230922.xyz:80/play/Edu925D/646280002M121/459778.ts
+
+#EXTINF:0 tvg-id="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/300px-Comedy_Central_2018.svg.png",Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://364265877834321184.of230922.xyz:80/play/Edu925D/646280002M121/321184.ts
+
 #EXTINF:0 tvg-id="DAZN LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/263px-DAZN_LaLiga_2023_Logo.svg.png",DAZN LaLiga HD
 #EXTVLCOPT:network-caching=1000
 http://364265877834320781.of230922.xyz:80/play/Edu925D/646280002M121/320781.ts
