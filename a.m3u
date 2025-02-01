@@ -21,3 +21,11 @@ https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af54
 #EXTINF:-1 tvg-id="VOTV.TV" tvg-logo="https://seu-e.cat/logotips/9826145015.PNG",VOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ingest2-video.streaming-pro.com/votv/streaming_web/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ETB1.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200",ETB 1
+#EXTVLCOPT:network-caching=1000
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="ETB2.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200",ETB 2
+#EXTVLCOPT:network-caching=1000
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
