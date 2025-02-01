@@ -10,11 +10,11 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTVLCOPT:network-caching=1000
 https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
 
-#EXTINF:0 tvg-id="Canal 33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/225px-33_%28CCMA%29.svg.png",el 33
+#EXTINF:0 tvg-id="Canal 33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/225px-33_%28CCMA%29.svg.png",El 33
 #EXTVLCOPT:network-caching=1000
 https://directes-tv-es.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="Canal Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_Sur_Televisión_2011-2017_logo.svg/180px-Canal_Sur_Televisión_2011-2017_logo.svg.png",Canal Sur 1
+#EXTINF:-1 tvg-id="Canal Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andalucía.png",Canal Sur
 #EXTVLCOPT:network-caching=1000
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
@@ -26,7 +26,13 @@ https://ingest2-video.streaming-pro.com/votv/streaming_web/chunks.m3u8
 #EXTVLCOPT:network-caching=1000
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="ETB2.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200",ETB 2
+#EXTINF:-1 tvg-id="ETB2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/300px-ETB2_2022_logo.svg.png",ETB 2
 #EXTVLCOPT:network-caching=1000
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="TVGAL.TV" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="Galicia" tvg-name="TVG",TVG
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVG2.TV" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="Galicia" tvg-name="TVG 2",TVG 2
+https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
 
