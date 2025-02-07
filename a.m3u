@@ -30,9 +30,11 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTVLCOPT:network-caching=1000
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="TVGAL.TV" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="Galicia" tvg-name="TVG",TVG
+#EXTINF:-1 tvg-id="TVGAL.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisión_de_Galicia_Logo.svg/225px-Televisión_de_Galicia_Logo.svg.png",TVG
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVG2.TV" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="Galicia" tvg-name="TVG 2",TVG 2
+#EXTINF:-1 tvg-id="TVG2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/TVG2_Logo.svg/225px-TVG2_Logo.svg.png",TVG 2
 https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
 
+#EXTINF:-1 tvg-id="APUNT.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27À_Punt_%282017-%29.svg/285px-Logotip_d%27À_Punt_%282017-%29.svg.png",À Punt
+https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
